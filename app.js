@@ -2,6 +2,7 @@ var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
+var fs = require('fs');
 
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
@@ -17,6 +18,12 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use('/', indexRouter);
 app.use('/users', usersRouter);
 app.use('/images', express.static('images'));
+
+// Reading from JSON file
+// Maybe there should be a different route for this
+var content = fs.readFileSync("../converter/template_1.json");
+console.log("Here's the content from the JSON file: ", content);
+let html = json2html.transform([{'s':'json2html'},{'s':'is'},{'s':'awesome'}],{'<>':'li','html':'${s}'});
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
