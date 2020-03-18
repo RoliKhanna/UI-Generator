@@ -1,3 +1,6 @@
+
+import * as tf from '@tensorflow/tfjs';
+
 // Input params
 const BATCH = 200;
 const SIZE = 28;
