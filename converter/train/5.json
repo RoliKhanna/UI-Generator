@@ -1,0 +1,621 @@
+[
+  {"<>":"script","html":"(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-P2VLTHZ');"},
+  {"<>":"meta","charset":"UTF-8","html":""},
+  {"<>":"meta","name":"google-site-verification","content":"DJtD2nAYoPEA8elogmRTtwYdQoeVTkUZInKp_0HnwI4","html":""},
+  {"<>":"meta","name":"viewport","content":"width=device-width, initial-scale=1.0","html":""},
+  {"<>":"title","html":"Al Kavadlo | Calisthenics Workouts & Bodyweight Exercises"},
+  {"<>":"link","rel":"profile","href":"https://gmpg.org/xfn/11","html":""},
+  {"<>":"link","rel":"pingback","href":"https://alkavadlo.com/xmlrpc.php","html":""},
+  {"<>":"link","rel":"shortcut icon","href":"https://alkavadlo.com/wp-content/themes/flat-theme/favicon.png","html":""},
+  {"<>":"link","rel":"dns-prefetch","href":"//s.w.org","html":""},
+  {"<>":"script","type":"text/javascript","html":"\n			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/alkavadlo.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.3"}};\n			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);\n		"},
+  {"<>":"style","type":"text/css","html":"\nimg.wp-smiley,\nimg.emoji {\n	display: inline !important;\n	border: none !important;\n	box-shadow: none !important;\n	height: 1em !important;\n	width: 1em !important;\n	margin: 0 .07em !important;\n	vertical-align: -0.1em !important;\n	background: none !important;\n	padding: 0 !important;\n}\n"},
+  {"<>":"link","rel":"stylesheet","id":"otw_grid_manager-css","href":"https://alkavadlo.com/wp-content/plugins/widgetize-pages-light/include/otw_components/otw_grid_manager/css/otw-grid.css?ver=1.1","type":"text/css","media":"all","html":""},
+  {"<>":"link","rel":"stylesheet","id":"general_foundicons-css","href":"https://alkavadlo.com/wp-content/plugins/widgetize-pages-light/include/otw_components/otw_shortcode/css/general_foundicons.css?ver=1.1","type":"text/css","media":"all","html":""},
+  {"<>":"link","rel":"stylesheet","id":"social_foundicons-css","href":"https://alkavadlo.com/wp-content/plugins/widgetize-pages-light/include/otw_components/otw_shortcode/css/social_foundicons.css?ver=1.1","type":"text/css","media":"all","html":""},
+  {"<>":"link","rel":"stylesheet","id":"otw_shortocde-css","href":"https://alkavadlo.com/wp-content/plugins/widgetize-pages-light/include/otw_components/otw_shortcode/css/otw_shortcode.css?ver=1.1","type":"text/css","media":"all","html":""},
+  {"<>":"link","rel":"stylesheet","id":"wp-block-library-css","href":"https://alkavadlo.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.3","type":"text/css","media":"all","html":""},
+  {"<>":"link","rel":"stylesheet","id":"banner-rotator-css","href":"https://alkavadlo.com/wp-content/plugins/bannerrotator/css/banner-rotator.css?ver=5.2.3","type":"text/css","media":"all","html":""},
+  {"<>":"link","rel":"stylesheet","id":"banner-rotator-caption-css","href":"https://alkavadlo.com/wp-content/plugins/bannerrotator/css/caption.css?ver=5.2.3","type":"text/css","media":"all","html":""},
+  {"<>":"link","rel":"stylesheet","id":"bootstrap-min-css","href":"https://alkavadlo.com/wp-content/themes/flat-theme/assets/css/bootstrap.min.css?ver=5.2.3","type":"text/css","media":"all","html":""},
+  {"<>":"link","rel":"stylesheet","id":"prettyPhoto-css","href":"https://alkavadlo.com/wp-content/themes/flat-theme/assets/css/prettyPhoto.css?ver=5.2.3","type":"text/css","media":"all","html":""},
+  {"<>":"link","rel":"stylesheet","id":"animate-css","href":"https://alkavadlo.com/wp-content/themes/flat-theme/assets/css/animate.css?ver=5.2.3","type":"text/css","media":"all","html":""},
+  {"<>":"link","rel":"stylesheet","id":"fontawesome-css","href":"https://alkavadlo.com/wp-content/themes/flat-theme/assets/css/font-awesome.min.css?ver=5.2.3","type":"text/css","media":"all","html":""},
+  {"<>":"link","rel":"stylesheet","id":"style-css","href":"https://alkavadlo.com/wp-content/themes/flat-theme/style.css?ver=5.2.3","type":"text/css","media":"all","html":""},
+  {"<>":"style","id":"style-inline-css","type":"text/css","html":"\n@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic);\n@import url(https://fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic);\n    /* Body Style */\n\n    body{\n    background: #f4f4f4;color: #0a0808;font-family: 'Droid Sans';size: 12px;}   \n\n /* Heading Style */\n\nh1, h2, h3, h4, h5, h6{ \nfont-family: 'Lato';}\n\n\n\n/*Link Color*/\n\na {\ncolor: #efd002;}\n\n\n/*Link Hover Color*/\n\na:hover {\ncolor: #303dd1;}  \n\n   /* Header Style */\n\n#header {\nbackground-color: #020202;}  \n\n\n\n/* Custom CSS */\nh1, h2, h3, h4, h5, h6 {\ntext-transform: uppercase;\n}\nh1 {\n    font-size: 30px;\n}\n#title h1 {\n    font-size: 28px;\n}\n.dates {\ncolor: #fff;\n        background-image: url(https://alkavadlo.com/wp-content/uploads/2015/04/bckabout.jpg);\ntext-align: center;\n  min-height: 350px;\nmargin-top: 10px;\npadding: 5px;\nbackground-color: #eee\n    border: 1px solid;\n    border-radius: 10px;\n} \n\n.dates h4 {\nmargin-bottom: 20px;\nmargin-top: 20px;}\n.dates ul {\nmargin-left: -20px;\nmargin-bottom: 20px;\n}\n.dates li {\n	list-style-image: none;\n	list-style-type: none;\n}\n.dates a:hover {\n    color: red;\n}\n.dates a:focus {\n    color: #fff;\n}\n#title {\ncolor: #333333;\n	background-image: url(https://alkavadlo.com/wp-content/uploads/2015/04/grungetitle.jpg);\n	background-repeat: repeat-x;\n	background-position: center top;\n   /* margin-top: 70px;*/\n    margin-bottom: 30px;\n    padding-bottom: 0;\n    padding-left: 0;\n    padding-right: 0;\n}\n.midnight-blue {\n  background-image: url(https://alkavadlo.com/wp-content/uploads/2015/04/Dirtytexture.jpg);\n	background-repeat: repeat-x;\n	background-position: center center;\n}\n.wet-asphalt {\n        background-image: url(https://alkavadlo.com/wp-content/uploads/2015/04/bckabout.jpg);\nbackground-position: center bottom;\n    padding-bottom: 0;\n    padding-top: 0;\n}\n.wet-asphalttext {\n   text-shadow: 0 0 0.2em #111, 0 0 0.2em #111, 0 0 0.2em #111;\n    min-height: 280px;\n    margin-top: 20px;\n}\n\n.wet-asphalt a {\n    color: #fff;\n}\n.wet-asphalt a:hover {\n    color: #000;\n}\n.negmargin {\n    background: url("https://alkavadlo.com/wp-content/uploads/2015/03/Al_Kavadlo2.png") no-repeat scroll center top transparent;\n    left: 0;\n    margin-top: -30px;\n    min-height: 360px;\n    position: absolute;\n    top: 0;\n    width: 100%;\n}\n#about.wet-asphalt {\n    background-color: #fff;\n    color: #FFFFFF;\n    min-height: 330px;\n}\n#alkavadlo {\n}\n.post, article.attachment {\n    background-color: #fff;\n    /*background-image: url(https://alkavadlo.com/wp-content/uploads/2015/04/grungetitle.jpg);\n	background-repeat: repeat-x;\n	background-position: center top;*/\n    border: 1px solid #ddd;\n    border-radius: 5px;\n}\n.pumkin {\n       background-color:  #ECCD21;\nclear: both;\n}\n/* Menus */\n.navbar .navbar-main > li a,\n.navbar .navbar-main > li:focus > a,\n.navbar .navbar-main > li:active > a,\n.navbar .navbar-main > li:hover > a,\n.navbar .navbar-main > li.active > a,\n.navbar .navbar-main > li.active:hover > a,\n.navbar .navbar-main > li.open > a,\n.navbar .navbar-main > li.open:hover > a {\n  background-color: #ECCD21;\n  color: #000;\n}\n.navbar .navbar-main .dropdown-menu {\n  background-color: #ECCD21;\n}\n.navbar-inverse .navbar-nav > li a {\n    margin-top: 15px;\n    padding: 2px 8px;\n    color: #000;\n}\n.navbar .navbar-main .dropdown-menu > li > a {\n    color: #000;\n}\n.navbar .navbar-main .dropdown-menu > li > a {\ncolor: #000;\nbackground-color: #ECCD21;\n}\n.navbar .navbar-main .dropdown-menu > li > a:hover{\ncolor: #ECCD21;\nbackground-color: #000;\n}\n\n/* Footer*/\n\n#footer {\n    color: #fff;\n    text-shadow: 0 0 0.2em #111, 0 0 0.2em #111, 0 0 0.2em #111;\n}\n.wet-asphalt {\n    color: #000;\n    background-color: #ECCD21;\n}\n#footer a {\ncolor: #ECCD21;\n}\n#footer a:hover {\n    color: #ECCD21;\nfont-style: italic;\n}\n#bottom {\n    color: #000;\n}\n#bottom a {\n color: #ECCD21;\nbackground: #000;\npadding-left: 3px;\npadding-right: 6px;\n}\n#bottom li {\nmargin-bottom: 8px;\n}\n/* forms and buttons */\n.btn-danger {\n    background-color: #ECCD21;\n    border-color: #000;\n    color: #fff;\n}\n\n.btn-danger:hover, .btn-danger:focus, .btn-danger:active, .btn-danger.active, .open .dropdown-toggle.btn-danger {\n    background-color: #000;\n    border-color: #ECCD21;\n    color: #ECCD21;\n}\n#books {\ntext-align: center;\n}\n/*#books a {\nbackground: #000;\npadding-left: 8px;\npadding-right: 12px;\npadding-bottom: 2px:\npadding-top: 5px;\nmargin-top: 4px;\n}*/\n.books {\nbackground#eee;\n}\n#books img {\nmax-height: 200px;\nmargin-top: 10px;\n}\n.storeitem {\n        background-image: url(https://alkavadlo.com/wp-content/uploads/2015/04/bckabout.jpg);\npadding: 10px 0;\n min-height: 300px;\n    border: 1px solid #333;;\n    border-radius: 10px;\n}\n.storeitem a:hover{\ncolor: red;\n}\n#socialcontent {\n	margin-left: -20px;\n	list-style-image: none;\n	list-style-type: none;\n}\n#socialcontent li {\n	padding-top: 10px;\npadding-left: 5px;\npadding-bottom: 10px;\npadding-right: 5px;\n	float: left;\n	list-style-type: none;\n}\n.asbestos {\nbackground-color: #eee;\n}\n.asbestos h3 {\ncolor: #000;}\n.comments-area {\nmargin-top: 40px;\nclear: both;\nbackground-color: #ddd;\npadding: 20px;\n}\n/* BLOG */\n.comments-title {\nmargin-bottom: 20px;\nfont-size: 20px;\n}\niframe {\nwidth: 100%;\n}\n.comment-list li {\n	list-style-type: none;\n}\n.archive-header {\ndisplay: none;\n}\n#blogmain li {\n	list-style-image: none;\n	list-style-type: none;\n}\n#postcontent li.blogcontent {\npadding-bottom: 20px;\nmargin-bottom: 20px;\nborder-bottom: 1px solid #333;\nclear: both;\n}\n#postcontent.blogtitle li a{\n        margin-top: 10px;\n        margin-bottom: 10px;\n	background-repeat: repeat-x;\n	background-position: center center;\n}\nul.recentblog {\n	list-style-image: none;\n	list-style-type: none;\nmargin-left: 20px;\n    background: none repeat scroll 0 0 #fff;\n    padding: 20px;\n}\n.rpwe-block h3 {\n    font-size: 15px !important;\n    text-align: center;\n}\n.rpwe-thumb {\n    width: 100%;\nmax-height: 200px;\n    border: 1px solid;\n    border-radius: 10px;\n}\n.rpwe-summary {\n    text-align: justify;\n}\na.more-link {\nfloat: right;\n}\n.post .entry-thumbnail, article.attachment .entry-thumbnail {\n    display: none;}\n.alert-info {\n    background-color: #eee;\n    border-color: #333;\n    color: #333;\n}\nlabel.screen-reader-text {\ndisplay: none;}\nul.breadcrumb > li.active {\n    color: #fff;\n}\n.navbar-brand {\n    padding-left: 0;\n}\n.navbar .navbar-main {\n    margin-top: 20px;\n    margin-bottom: 10px;\n}\n.navbar > .container .navbar-brand {\n    margin-left: 0;\n}\n#sidebar h3 {\nfont-size: 1em;\npadding-top: 3px;\npadding-left: 15px;\npadding-bottom: 5px;\ncolor: #ECCD21;\nbackground-color: #000;\n}\n/* Media changes */\n@media screen and (max-width: 400px){\n.navbar > .container .navbar-brand {\n    margin-left: 10px;\n    width: 200px;\n}\n.navbar-inverse .navbar-nav > li a {\n    color: #fff;\n}\n}\n\n\n"},
+  {"<>":"link","rel":"stylesheet","id":"__EPYT__style-css","href":"https://alkavadlo.com/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=13.1.1","type":"text/css","media":"all","html":""},
+  {"<>":"style","id":"__EPYT__style-inline-css","type":"text/css","html":"\n\n                .epyt-gallery-thumb {\n                        width: 33.333%;\n                }\n                \n"},
+  {"<>":"script","html":"if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}"},
+  {"<>":"script","type":"text/javascript","src":"https://alkavadlo.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp","html":""},
+  {"<>":"script","type":"text/javascript","src":"https://alkavadlo.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1","html":""},
+  {"<>":"script","type":"text/javascript","src":"https://alkavadlo.com/wp-content/plugins/bannerrotator/js/jquery.flashblue-plugins.js?ver=5.2.3","html":""},
+  {"<>":"script","type":"text/javascript","src":"https://alkavadlo.com/wp-content/plugins/bannerrotator/js/jquery.banner-rotator.js?ver=5.2.3","html":""},
+  {"<>":"script","type":"text/javascript","src":"https://alkavadlo.com/wp-content/themes/flat-theme/assets/js/bootstrap.min.js?ver=5.2.3","html":""},
+  {"<>":"script","type":"text/javascript","src":"https://alkavadlo.com/wp-content/themes/flat-theme/assets/js/jquery.prettyPhoto.js?ver=5.2.3","html":""},
+  {"<>":"script","type":"text/javascript","src":"https://alkavadlo.com/wp-content/themes/flat-theme/assets/js/jquery.isotope.min.js?ver=5.2.3","html":""},
+  {"<>":"script","type":"text/javascript","src":"https://alkavadlo.com/wp-content/themes/flat-theme/assets/js/main.js?ver=5.2.3","html":""},
+  {"<>":"script","type":"text/javascript","html":"\n/* <![CDATA[ */\nvar _EPYT_ = {"ajaxurl":"https:\/\/alkavadlo.com\/wp-admin\/admin-ajax.php","security":"917ff66c7d","gallery_scrolloffset":"20","eppathtoscripts":"https:\/\/alkavadlo.com\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","eppath":"https:\/\/alkavadlo.com\/wp-content\/plugins\/youtube-embed-plus\/","epresponsiveselector":"[\"iframe.__youtube_prefs_widget__\"]","epdovol":"1","version":"13.1.1","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","ytapi_load":"light","stopMobileBuffer":"1","vi_active":"","vi_js_posttypes":[]};\n/* ]]> */\n"},
+  {"<>":"script","type":"text/javascript","src":"https://alkavadlo.com/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=13.1.1","html":""},
+  {"<>":"link","rel":"https://api.w.org/","href":"https://alkavadlo.com/wp-json/","html":""},
+  {"<>":"link","rel":"EditURI","type":"application/rsd+xml","title":"RSD","href":"https://alkavadlo.com/xmlrpc.php?rsd","html":""},
+  {"<>":"link","rel":"wlwmanifest","type":"application/wlwmanifest+xml","href":"https://alkavadlo.com/wp-includes/wlwmanifest.xml","html":""},
+  {"<>":"meta","name":"generator","content":"WordPress 5.2.3","html":""},
+  {"<>":"link","rel":"canonical","href":"https://alkavadlo.com/","html":""},
+  {"<>":"link","rel":"shortlink","href":"https://alkavadlo.com/","html":""},
+  {"<>":"link","rel":"alternate","type":"application/json+oembed","href":"https://alkavadlo.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falkavadlo.com%2F","html":""},
+  {"<>":"link","rel":"alternate","type":"text/xml+oembed","href":"https://alkavadlo.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falkavadlo.com%2F&format=xml","html":""},
+  {"<>":"script","type":"text/javascript","html":"<!--\nfunction powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}\n//-->\n"},
+  {"<>":"noscript","html":"<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P2VLTHZ"\nheight="0" width="0" style="display:none;visibility:hidden"></iframe>"},
+  {"<>":"header","id":"header","class":"navbar navbar-inverse navbar-fixed-top","role":"banner","html":[
+      {"<>":"div","class":"container","html":[
+          {"<>":"div","class":"navbar-header","html":[
+              {"<>":"button","type":"button","class":"navbar-toggle","data-toggle":"collapse","data-target":".navbar-collapse","html":[
+                  {"<>":"span","class":"sr-only","html":"Toggle navigation"},
+                  {"<>":"span","class":"icon-bar","html":""},
+                  {"<>":"span","class":"icon-bar","html":""},
+                  {"<>":"span","class":"icon-bar","html":""}
+                ]},
+              {"<>":"a","class":"navbar-brand","href":"https://alkavadlo.com/","html":[
+                  {"<>":"img","src":"https://alkavadlo.com/wp-content/uploads/2019/04/Al_Kavadlo-1.png","alt":"Al Kavadlo","html":""}
+                ]}
+            ]},
+          {"<>":"div","class":"hidden-xs","html":[
+              {"<>":"ul","id":"menu-topmenu","class":"nav navbar-nav navbar-main","html":[
+                  {"<>":"li","id":"menu-item-15729","class":"menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-15722 current_page_item menu-item-15729 active","html":[
+                      {"<>":"a","title":"Home","href":"https://alkavadlo.com/","html":"Home"}
+                    ]},
+                  {"<>":"li","id":"menu-item-15742","class":"menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-15742 active","html":[
+                      {"<>":"a","title":"About Al","href":"https://alkavadlo.com#alkavadlo","html":"About Al"}
+                    ]},
+                  {"<>":"li","id":"menu-item-30805","class":"menu-item menu-item-type-post_type menu-item-object-page menu-item-30805","html":[
+                      {"<>":"a","title":"My Philosophy","href":"https://alkavadlo.com/my-philosophy/","html":"My Philosophy"}
+                    ]},
+                  {"<>":"li","id":"menu-item-15966","class":"menu-item menu-item-type-custom menu-item-object-custom menu-item-15966","html":[
+                      {"<>":"a","title":"Books & More!","href":"https://alkavadlo.com/calisthenics-books-dvds-and-apps/","html":"Books & More!"}
+                    ]},
+                  {"<>":"li","id":"menu-item-15975","class":"menu-item menu-item-type-post_type menu-item-object-page menu-item-15975","html":[
+                      {"<>":"a","title":"FAQs","href":"https://alkavadlo.com/faq-main/","html":"FAQs"}
+                    ]},
+                  {"<>":"li","id":"menu-item-23623","class":"menu-item menu-item-type-post_type menu-item-object-page menu-item-23623","html":[
+                      {"<>":"a","title":"Blog","href":"https://alkavadlo.com/blog/","html":"Blog"}
+                    ]},
+                  {"<>":"li","id":"menu-item-30804","class":"menu-item menu-item-type-post_type menu-item-object-page menu-item-30804","html":[
+                      {"<>":"a","title":"Contact Me","href":"https://alkavadlo.com/contact-me/","html":"Contact Me"}
+                    ]}
+                ]}
+            ]},
+          {"<>":"div","id":"mobile-menu","class":"visible-xs","html":[
+              {"<>":"div","class":"collapse navbar-collapse","html":[
+                  {"<>":"ul","id":"menu-topmenu-1","class":"nav navbar-nav","html":[
+                      {"<>":"li","class":"menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-15722 current_page_item menu-item-15729 active","html":[
+                          {"<>":"a","title":"Home","href":"https://alkavadlo.com/","html":"Home"}
+                        ]},
+                      {"<>":"li","class":"menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-15742 active","html":[
+                          {"<>":"a","title":"About Al","href":"https://alkavadlo.com#alkavadlo","html":"About Al"}
+                        ]},
+                      {"<>":"li","class":"menu-item menu-item-type-post_type menu-item-object-page menu-item-30805","html":[
+                          {"<>":"a","title":"My Philosophy","href":"https://alkavadlo.com/my-philosophy/","html":"My Philosophy"}
+                        ]},
+                      {"<>":"li","class":"menu-item menu-item-type-custom menu-item-object-custom menu-item-15966","html":[
+                          {"<>":"a","title":"Books & More!","href":"https://alkavadlo.com/calisthenics-books-dvds-and-apps/","html":"Books & More!"}
+                        ]},
+                      {"<>":"li","class":"menu-item menu-item-type-post_type menu-item-object-page menu-item-15975","html":[
+                          {"<>":"a","title":"FAQs","href":"https://alkavadlo.com/faq-main/","html":"FAQs"}
+                        ]},
+                      {"<>":"li","class":"menu-item menu-item-type-post_type menu-item-object-page menu-item-23623","html":[
+                          {"<>":"a","title":"Blog","href":"https://alkavadlo.com/blog/","html":"Blog"}
+                        ]},
+                      {"<>":"li","class":"menu-item menu-item-type-post_type menu-item-object-page menu-item-30804","html":[
+                          {"<>":"a","title":"Contact Me","href":"https://alkavadlo.com/contact-me/","html":"Contact Me"}
+                        ]}
+                    ]}
+                ]}
+            ]}
+        ]}
+    ]},
+  {"<>":"section","id":"main-slider","style":"margin: 0; padding: 0;","html":[
+      {"<>":"div","class":"carousel slide wet-asphalt","html":[
+          {"<>":"style","type":"text/css","html":"\n				#banner_rotator_1_1, #banner_rotator_1_1_wrapper { width:1170px; height:500px;}\n						\n			   @media only screen and (min-width: 1300px)  {\n			 		  #banner_rotator_1_1, #banner_rotator_1_1_wrapper { width:1170px; height:500px;}	\n			   }\n			\n						\n			   @media only screen and (min-width: 1100px) and (max-width: 1299px) {\n			 		  #banner_rotator_1_1, #banner_rotator_1_1_wrapper { width:1170px; height:500px;}	\n			   }\n			\n						\n			   @media only screen and (min-width: 768px) and (max-width: 1099px) {\n			 		  #banner_rotator_1_1, #banner_rotator_1_1_wrapper { width:760px; height:324px;}	\n			   }\n			\n						\n			   @media only screen and (min-width: 480px) and (max-width: 767px) {\n			 		  #banner_rotator_1_1, #banner_rotator_1_1_wrapper { width:480px; height:205px;}	\n			   }\n			\n						\n			   @media only screen and (min-width: 0px) and (max-width: 479px) {\n			 		  #banner_rotator_1_1, #banner_rotator_1_1_wrapper { width:320px; height:136px;}	\n			   }\n			\n			"},
+          {"<>":"div","id":"banner_rotator_1_1_wrapper","class":"banner-rotator-wrapper","style":"margin:0px auto;background-color:#000000;padding:0px;margin-top:0px;margin-bottom:0px;","html":[
+              {"<>":"div","id":"banner_rotator_1_1","class":"banner-rotator","style":"display:none;","html":[
+                  {"<>":"ul","html":[
+                      {"<>":"li","data-transition":"fade","data-link":"https://passion.io/en/learn/courses/147-universal-strength-30-day-workout-program","data-target":"_blank","data-thumb":"https://alkavadlo.com/wp-admin/admin-ajax.php?action=bannerrotator_show_image&img=uploads%2F2018%2F05%2FAl_Banner_New.jpg&w=72&h=54&t=exact","html":[
+                          {"<>":"img","src":"https://alkavadlo.com/wp-content/uploads/2018/05/Al_Banner_New.jpg","alt":"Al_Banner_New","html":""}
+                        ]}
+                    ]}
+                ]}
+            ]},
+          {"<>":"script","type":"text/javascript","html":"\n								\n				var bannerapi1;\n				\n				jQuery(document).ready(function() {				\n					if (jQuery.fn.cssOriginal != undefined) {\n						jQuery.fn.css = jQuery.fn.cssOriginal;\n					}\n				\n					if(jQuery('#banner_rotator_1_1').bannerRotator == undefined) {\n						bannerrotator_showDoubleJqueryError('#banner_rotator_1_1');\n					} else {\n					   bannerapi1 = jQuery('#banner_rotator_1_1').show().bannerRotator({\n							startWidth:1170,\n							startHeight:500,\n							\n							autoPlay:true,\n							playOnce:false,\n							selectOnHover:false,\n							\n							randomize:false,\n							\n							//Transition\n							delay:5000,			\n							\n							//Button\n							showButton:false,\n							showNumber:false,\n							showPlayPauseButton:false,\n							showPreviousNextArrow:false,\n							showCenterPreviousNextArrow:true,\n							showButtonOnHover:false,\n							buttonAlign:"BC",\n							buttonWidth:20,\n							buttonHeight:20,\n							buttonBorderRadius:2,\n							buttonMargin:1,\n							buttonOffsetHorizontal:10,\n							buttonOffsetVertical:10,\n							touchEnabled:true,				\n				\n							//Thumbnail\n							showThumb:false,\n							thumbWidth:72,\n							thumbHeight:54,\n							\n							//Timer\n							showTimer:true,\n							timerType:"line",\n							timerArcSize:2,\n							timerAlign:"bottom",\n							pauseOnHover:true,\n							\n							//Shadow\n							shadow:0,					 \n							\n							//Tooltip\n							showTooltip:true,\n							tooltipType:"image",			  \n							\n							//Caption\n							hideCaptionAtResolution:0,			 \n							\n							//Lazy load\n							lazyLoad:false,						\n							\n							//Current item\n							currentItem:0,\n							\n							//Mouse scroll\n							scrollMouseWheel:false,\n							\n							fullWidth:false,					   \n							\n							//Full screen\n							fullScreen:false,\n							fullScreenOffsetContainer:"",			\n	\n							//Video\n							videoJsPath:"https://alkavadlo.com/wp-content/plugins/bannerrotator/videojs/"						\n						});\n					}\n				});				\n			"}
+        ]}
+    ]},
+  {"<>":"p","html":""},
+  {"<>":"section","id":"home","class":"","html":[
+      {"<>":"div","class":"container","html":[
+          {"<>":"div","class":"row","html":""},
+          {"<>":"div","class":"col-md-12","html":""},
+          {"<>":"p","html":""},
+          {"<>":"p","style":"text-align: center;","html":""}
+        ]}
+    ]},
+  {"<>":"br","html":""},
+  {"<>":"section","id":"about","class":"wet-asphalt","html":[
+      {"<>":"div","class":"container","html":[
+          {"<>":"div","class":"row","html":[
+              {"<>":"div","class":"col-md-4","html":[
+                  {"<>":"p","html":""},
+                  {"<>":"div","class":"negmargin","html":""},
+                  {"<>":"p","html":""}
+                ]},
+              {"<>":"div","class":"col-md-8","html":[
+                  {"<>":"p","html":""},
+                  {"<>":"div","id":"al","html":[
+                      {"<>":"a","name":"al","html":""}
+                    ]},
+                  {"<>":"div","class":"wet-asphalttext","html":[
+                      {"<>":"p","html":[
+                          {"<>":"a","href":"https://alkavadlo.com/wp-content/uploads/2015/03/Al_Kavadlo_sig.png","html":[
+                              {"<>":"img","class":"alignnone size-full wp-image-15833","src":"https://alkavadlo.com/wp-content/uploads/2015/03/Al_Kavadlo_sig.png","alt":"Al_Kavadlo_sig","width":"150","height":"41","html":""}
+                            ]}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"em","html":[
+                              {"<>":"strong","html":[
+                                  {"<>":"a","href":"http://www.dragondoor.com/eb91/?apid=4e8cb1ea167b0","target":"_blank","rel":"noopener noreferrer","html":"Get Strong"}
+                                ]}
+                            ]},
+                          {"<>":"em","html":[
+                              {"<>":"strong","html":[
+                                  {"<>":"a","href":"http://www.dragondoor.com/eb87/?apid=4e8cb1ea167b0","target":"_blank","rel":"noopener noreferrer","html":"Street Workout"}
+                                ]}
+                            ]},
+                          {"<>":"em","html":[
+                              {"<>":"strong","html":"Convict Conditioning"}
+                            ]}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"a","href":"http://www.dragondoor.com/workshops/pccworkshop/?apid=4e8cb1ea167b0","target":"_blank","rel":"noopener noreferrer","html":[
+                              {"<>":"strong","html":"Progressive Calisthenics Certification"}
+                            ]}
+                        ]},
+                      {"<>":"ul","id":"socialcontent","html":[
+                          {"<>":"li","html":[
+                              {"<>":"a","href":"https://www.facebook.com/al.kavadlo","target":"_blank","rel":"noopener noreferrer","html":[
+                                  {"<>":"img","src":"https://alkavadlo.com/wp-content/uploads/2015/04/facebook32.png","alt":"Facebook","width":"36","height":"36","html":""}
+                                ]}
+                            ]},
+                          {"<>":"li","html":[
+                              {"<>":"a","href":"https://twitter.com/AlKavadlo","target":"_blank","rel":"noopener noreferrer","html":[
+                                  {"<>":"img","src":"https://alkavadlo.com/wp-content/uploads/2015/04/twitter32.png","alt":"Facebook","width":"36","height":"36","html":""}
+                                ]}
+                            ]},
+                          {"<>":"li","html":[
+                              {"<>":"a","href":"https://www.youtube.com/user/alkavadlo","target":"_blank","rel":"noopener noreferrer","html":[
+                                  {"<>":"img","src":"https://alkavadlo.com/wp-content/uploads/2015/04/youtube32.png","alt":"Facebook","width":"36","height":"36","html":""}
+                                ]}
+                            ]},
+                          {"<>":"li","html":[
+                              {"<>":"a","href":"https://instagram.com/al_kavadlo/","target":"_blank","rel":"noopener noreferrer","html":[
+                                  {"<>":"img","src":"https://alkavadlo.com/wp-content/uploads/2015/04/instagram32.png","alt":"Instagram","width":"36","height":"36","html":""}
+                                ]}
+                            ]},
+                          {"<>":"li","html":[
+                              {"<>":"a","href":"http://feeds.feedburner.com/alkavadlo","target":"_blank","rel":"noopener noreferrer","html":[
+                                  {"<>":"img","src":"https://alkavadlo.com/wp-content/uploads/2015/04/rss32.png","alt":"RSSFeed","width":"36","height":"36","html":""}
+                                ]}
+                            ]}
+                        ]}
+                    ]},
+                  {"<>":"p","html":""}
+                ]}
+            ]}
+        ]}
+    ]},
+  {"<>":"br","html":""},
+  {"<>":"section","id":"books","class":"books","html":[
+      {"<>":"div","class":"container","html":[
+          {"<>":"br","html":""},
+          {"<>":"div","class":"row","html":[
+              {"<>":"div","class":"col-md-12","html":[
+                  {"<>":"p","html":""},
+                  {"<>":"h2","style":"text-align: center;","html":"Books by Al Kavadlo"},
+                  {"<>":"p","html":""}
+                ]}
+            ]},
+          {"<>":"br","html":""},
+          {"<>":"div","class":"row","html":[
+              {"<>":"div","class":"col-md-2","html":[
+                  {"<>":"p","html":""},
+                  {"<>":"div","class":"storeitem","html":[
+                      {"<>":"a","href":"http://www.dragondoor.com/eb87/?apid=4e8cb1ea167b0","target":"_blank","rel":"noopener noreferrer","html":"GET STRONG"},
+                      {"<>":"br","html":""},
+                      {"<>":"a","href":"http://www.dragondoor.com/b91/?apid=4e8cb1ea167b0","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"img","class":"aligncenter wp-image-15872 size-full","src":"https://alkavadlo.com/wp-content/uploads/2017/05/GetStrongCover.png","alt":"GetStrong-Cover","width":"150","height":"192","html":""}
+                        ]}
+                    ]},
+                  {"<>":"p","html":""}
+                ]},
+              {"<>":"div","class":"col-md-2","html":[
+                  {"<>":"p","html":""},
+                  {"<>":"div","class":"storeitem","html":[
+                      {"<>":"a","href":"http://www.dragondoor.com/eb87/?apid=4e8cb1ea167b0","target":"_blank","rel":"noopener noreferrer","html":"STREET WORKOUT"},
+                      {"<>":"br","html":""},
+                      {"<>":"a","href":"http://www.dragondoor.com/eb87/?apid=4e8cb1ea167b0","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"img","class":"aligncenter wp-image-15872 size-full","src":"https://alkavadlo.com/wp-content/uploads/2016/06/Screen-Shot-2016-06-11-at-3.11.41-PM-e1465672386941.png","alt":"StreetWorkout-Cover","width":"150","height":"192","html":""}
+                        ]}
+                    ]},
+                  {"<>":"p","html":""}
+                ]},
+              {"<>":"div","class":"col-md-2","html":[
+                  {"<>":"p","html":""},
+                  {"<>":"div","class":"storeitem","html":[
+                      {"<>":"a","href":"http://www.dragondoor.com/eb81/?apid=4e8cb1ea167b0","target":"_blank","rel":"noopener noreferrer","html":"Zen Mind, Strong Body"},
+                      {"<>":"br","html":""},
+                      {"<>":"a","href":"http://www.dragondoor.com/eb81/?apid=4e8cb1ea167b0","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"img","class":"aligncenter wp-image-15870 size-full","src":"https://alkavadlo.com/wp-content/uploads/2015/03/Zen-cover.png","alt":"Zen-cover","width":"150","height":"192","html":""}
+                        ]}
+                    ]},
+                  {"<>":"p","html":""}
+                ]},
+              {"<>":"div","class":"col-md-2","html":[
+                  {"<>":"p","html":""},
+                  {"<>":"div","class":"storeitem","html":[
+                      {"<>":"a","href":"http://www.dragondoor.com/b73/?apid=4e8cb1ea167b0","target":"_blank","rel":"noopener noreferrer","html":"Stretching Your Boundaries"},
+                      {"<>":"br","html":""},
+                      {"<>":"a","href":"http://www.dragondoor.com/b73/?apid=4e8cb1ea167b0","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"img","class":"aligncenter wp-image-15872 size-full","src":"https://alkavadlo.com/wp-content/uploads/2015/03/Stretching-Cover.png","alt":"Stretching-Cover","width":"150","height":"192","html":""}
+                        ]}
+                    ]},
+                  {"<>":"p","html":""}
+                ]},
+              {"<>":"div","class":"col-md-2","html":[
+                  {"<>":"p","html":""},
+                  {"<>":"div","class":"storeitem","html":[
+                      {"<>":"a","href":"http://www.dragondoor.com/b69/?apid=4e8cb1ea167b0","target":"_blank","rel":"noopener noreferrer","html":"Pushing the Limits!"},
+                      {"<>":"br","html":""},
+                      {"<>":"a","href":"http://www.dragondoor.com/b69/?apid=4e8cb1ea167b0","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"img","class":"aligncenter wp-image-15871 size-full","src":"https://alkavadlo.com/wp-content/uploads/2015/03/Pushing-Limits-Cover.png","alt":"Pushing-Limits-Cover","width":"150","height":"192","html":""}
+                        ]}
+                    ]},
+                  {"<>":"p","html":""}
+                ]},
+              {"<>":"div","class":"col-md-2","html":[
+                  {"<>":"p","html":""},
+                  {"<>":"div","class":"storeitem","html":[
+                      {"<>":"a","href":"http://www.dragondoor.com/b63/?apid=4e8cb1ea167b0","target":"_blank","rel":"noopener noreferrer","html":"Raising The Bar"},
+                      {"<>":"br","html":""},
+                      {"<>":"a","href":"http://www.dragondoor.com/b63/?apid=4e8cb1ea167b0","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"img","class":"aligncenter wp-image-15866 size-full","src":"https://alkavadlo.com/wp-content/uploads/2015/03/Raising-Bar-Cover.png","alt":"Raising-Bar-Cover","width":"150","height":"192","html":""}
+                        ]}
+                    ]},
+                  {"<>":"p","html":""}
+                ]}
+            ]},
+          {"<>":"br","html":""},
+          {"<>":"div","class":"row","html":[
+              {"<>":"div","class":"col-md-12","html":[
+                  {"<>":"p","html":""},
+                  {"<>":"h2","style":"text-align: center;","html":"Al Recommends"},
+                  {"<>":"p","html":""}
+                ]}
+            ]},
+          {"<>":"br","html":""},
+          {"<>":"div","class":"row","html":[
+              {"<>":"div","class":"col-md-2","html":[
+                  {"<>":"p","html":""},
+                  {"<>":"div","class":"storeitem","html":[
+                      {"<>":"a","href":"https://www.pntrac.com/t/TUJGR0ZGR0JGTk5NSkZCRkxNSUhL","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"br","html":""}
+                        ]},
+                      {"<>":"br","html":""},
+                      {"<>":"a","href":" https://www.pntrac.com/t/TUJGR0ZGR0JGTk5NSkZCRkxNSUhL","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"img","class":"alignleft wp-image-31357 size-thumbnail","src":"https://alkavadlo.com/wp-content/uploads/2017/07/Screen-Shot-2017-07-13-at-1.22.27-PM-150x150.png","alt":"","width":"150","height":"150","srcset":"https://alkavadlo.com/wp-content/uploads/2017/07/Screen-Shot-2017-07-13-at-1.22.27-PM-150x150.png 150w, https://alkavadlo.com/wp-content/uploads/2017/07/Screen-Shot-2017-07-13-at-1.22.27-PM-45x45.png 45w","sizes":"(max-width: 150px) 100vw, 150px","html":""}
+                        ]}
+                    ]},
+                  {"<>":"p","html":""}
+                ]},
+              {"<>":"div","class":"col-md-2","html":[
+                  {"<>":"p","html":""},
+                  {"<>":"div","class":"storeitem","html":[
+                      {"<>":"a","href":"http://www.crossrope.com/alkavadlo","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"br","html":""}
+                        ]},
+                      {"<>":"a","href":"http://www.crossrope.com/alkavadlo","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"img","class":"aligncenter wp-image-15868 size-thumb","src":"https://alkavadlo.com/wp-content/uploads/2017/07/Screen-Shot-2017-07-13-at-1.16.34-PM-e1499966457391.png","alt":"Al's App","width":"150","height":"192","html":""}
+                        ]}
+                    ]},
+                  {"<>":"p","html":""}
+                ]},
+              {"<>":"div","class":"col-md-2","html":[
+                  {"<>":"p","html":""},
+                  {"<>":"div","class":"storeitem","html":[
+                      {"<>":"a","href":"http://www.dragondoor.com/workshops/pccworkshop/?apid=4e8cb1ea167b0","target":"_blank","rel":"noopener noreferrer","html":"Progressive Calisthenics Certification"},
+                      {"<>":"br","html":""},
+                      {"<>":"a","href":"http://www.dragondoor.com/workshops/pccworkshop/?apid=4e8cb1ea167b0","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"img","class":"aligncenter wp-image-23665 size-full","src":"https://alkavadlo.com/wp-content/uploads/2015/05/pcc_cover-150x1501.png","alt":"","width":"150","height":"150","srcset":"https://alkavadlo.com/wp-content/uploads/2015/05/pcc_cover-150x1501.png 150w, https://alkavadlo.com/wp-content/uploads/2015/05/pcc_cover-150x1501-45x45.png 45w","sizes":"(max-width: 150px) 100vw, 150px","html":""}
+                        ]}
+                    ]},
+                  {"<>":"p","html":""}
+                ]},
+              {"<>":"div","class":"col-md-2","html":[
+                  {"<>":"p","html":""},
+                  {"<>":"div","class":"storeitem","html":[
+                      {"<>":"a","href":"https://itunes.apple.com/us/app/id1067817073","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"br","html":""}
+                        ]},
+                      {"<>":"a","href":"https://itunes.apple.com/us/app/id1067817073","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"img","class":"aligncenter wp-image-15868 size-full","src":"https://alkavadlo.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-09-at-2.07.20-PM.png","alt":"Al's App","width":"150","height":"192","html":""}
+                        ]}
+                    ]},
+                  {"<>":"p","html":""}
+                ]},
+              {"<>":"div","class":"col-md-2","html":[
+                  {"<>":"p","html":""},
+                  {"<>":"div","class":"storeitem","html":[
+                      {"<>":"a","href":"https://gmb.io/?ref=11","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"br","html":""}
+                        ]},
+                      {"<>":"br","html":""},
+                      {"<>":"a","href":"https://gmb.io/?ref=11","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"img","class":"aligncenter wp-image-15868 size-full","src":"https://alkavadlo.com/wp-content/uploads/2016/06/Screen-Shot-2016-06-13-at-1.27.57-PM.png","alt":"GMB Fitness","width":"150","height":"192","html":""}
+                        ]}
+                    ]},
+                  {"<>":"p","html":""}
+                ]},
+              {"<>":"div","class":"col-md-2","html":[
+                  {"<>":"p","html":""},
+                  {"<>":"div","class":"storeitem","html":[
+                      {"<>":"a","href":"http://www.xeroshoes.com/go/AlKavadlo","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"br","html":""}
+                        ]},
+                      {"<>":"br","html":""},
+                      {"<>":"a","href":"http://www.xeroshoes.com/go/AlKavadlo","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"img","class":" wp-image-15921 size-full aligncenter","src":"https://alkavadlo.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-05-at-2.01.47-PM-e1499966896849.png","alt":"","width":"280","height":"280","html":""}
+                        ]}
+                    ]},
+                  {"<>":"p","html":""}
+                ]}
+            ]}
+        ]}
+    ]},
+  {"<>":"br","html":""},
+  {"<>":"section","id":"abovefooter","class":"asbestos","html":[
+      {"<>":"div","class":"container","html":[
+          {"<>":"div","class":"col-md-12","html":[
+              {"<>":"p","html":""},
+              {"<>":"h3","style":"text-align: center;","html":"Media"},
+              {"<>":"p","html":""}
+            ]},
+          {"<>":"br","html":""},
+          {"<>":"div","class":"row","html":[
+              {"<>":"div","class":"col-md-3","html":[
+                  {"<>":"p","html":""},
+                  {"<>":"div","align":"center","html":[
+                      {"<>":"a","href":"http://www.nytimes.com/2013/06/14/nyregion/progressive-calisthenics-as-a-substitute-for-gym-equipment.html","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"img","class":"alignnone","src":"https://alkavadlo.com/wp-content/uploads/2015/04/nyt.png","alt":"New York Times","width":"200","height":"75","html":""}
+                        ]}
+                    ]},
+                  {"<>":"p","html":""}
+                ]},
+              {"<>":"div","class":"col-md-3","html":[
+                  {"<>":"p","html":""},
+                  {"<>":"div","align":"center","html":[
+                      {"<>":"a","href":"http://www.bodybuilding.com/fun/al-kavadlo.html","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"img","class":"alignnone","src":"https://alkavadlo.com/wp-content/uploads/2015/04/body.png","alt":"Bodybuilding.com","width":"200","height":"75","html":""}
+                        ]}
+                    ]},
+                  {"<>":"p","html":""}
+                ]},
+              {"<>":"div","class":"col-md-3","html":[
+                  {"<>":"p","html":""},
+                  {"<>":"div","align":"center","html":[
+                      {"<>":"a","href":"http://www.menshealth.com/video/how-do-human-flag","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"img","class":"alignnone","src":"https://alkavadlo.com/wp-content/uploads/2015/04/men.png","alt":"Mens Health","width":"200","height":"75","html":""}
+                        ]}
+                    ]},
+                  {"<>":"p","html":""}
+                ]},
+              {"<>":"div","class":"col-md-3","html":[
+                  {"<>":"p","html":""},
+                  {"<>":"div","align":"center","html":[
+                      {"<>":"a","href":"https://www.t-nation.com/all-articles/authors/al-kavadlo","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"img","class":"alignnone","src":"https://alkavadlo.com/wp-content/uploads/2015/04/tnation.png","alt":"T Nation","width":"200","height":"75","html":""}
+                        ]}
+                    ]},
+                  {"<>":"p","html":""}
+                ]},
+              {"<>":"div","class":"col-md-3","html":[
+                  {"<>":"p","html":""},
+                  {"<>":"div","align":"center","html":[
+                      {"<>":"a","href":"http://train-mag.com/train-manual/bodyweight","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"img","class":"alignnone","src":"https://alkavadlo.com/wp-content/uploads/2015/04/train.png","alt":"Train","width":"200","height":"75","html":""}
+                        ]}
+                    ]},
+                  {"<>":"p","html":""}
+                ]},
+              {"<>":"div","class":"col-md-3","html":[
+                  {"<>":"p","html":""},
+                  {"<>":"div","align":"center","html":[
+                      {"<>":"a","href":"http://nypost.com/2015/10/27/watch-these-beefy-guys-do-extreme-yoga-on-the-street/","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"img","class":"alignnone","src":"https://alkavadlo.com/wp-content/uploads/2016/04/Screen-Shot-2016-04-14-at-7.19.19-AM.png","alt":"Finacial Times","width":"200","height":"75","html":""}
+                        ]}
+                    ]},
+                  {"<>":"p","html":""}
+                ]},
+              {"<>":"div","class":"col-md-3","html":[
+                  {"<>":"p","html":""},
+                  {"<>":"div","align":"center","html":[
+                      {"<>":"a","href":"https://alkavadlo.com/wp-content/uploads/2014/12/FTimes-e1419009082108.jpg","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"img","class":"alignnone","src":"https://alkavadlo.com/wp-content/uploads/2015/04/FT.png","alt":"Finacial Times","width":"200","height":"75","html":""}
+                        ]}
+                    ]},
+                  {"<>":"p","html":""}
+                ]},
+              {"<>":"div","class":"col-md-3","html":[
+                  {"<>":"p","html":""},
+                  {"<>":"div","align":"center","html":[
+                      {"<>":"a","href":"http://pccblog.dragondoor.com/?apid=4e8cb1ea167b0","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"img","class":"alignnone","src":"https://alkavadlo.com/wp-content/uploads/2015/04/dragon.png","alt":"Dragons Door","width":"200","height":"113","html":""}
+                        ]}
+                    ]},
+                  {"<>":"p","html":""}
+                ]}
+            ]}
+        ]}
+    ]},
+  {"<>":"p","html":""},
+  {"<>":"section","id":"bottom","class":"pumkin","html":[
+      {"<>":"div","class":"container","html":[
+          {"<>":"div","class":"row","html":[
+              {"<>":"div","class":"col-sm-3 col-xs-6","html":[
+                  {"<>":"h3","html":" Disclaimer"},
+                  {"<>":"div","class":"textwidget","html":" Al Kavadlo is not liable for any injuries or damages that individuals might incur by attempting to perform any of the exercises or feats of strength depicted or discussed on this website.\nAny individual attempting to does so at their own risk. Consult with your physician before beginning an exercise regimen.\n\n"}
+                ]},
+              {"<>":"div","class":"col-sm-3 col-xs-6","html":[
+                  {"<>":"h3","html":"Calendar"},
+                  {"<>":"div","id":"calendar_wrap","class":"calendar_wrap","html":[
+                      {"<>":"table","id":"wp-calendar","html":[
+                          {"<>":"caption","html":"March 2020"},
+                          {"<>":"thead","html":[
+                              {"<>":"tr","html":[
+                                  {"<>":"th","scope":"col","title":"Monday","html":"M"},
+                                  {"<>":"th","scope":"col","title":"Tuesday","html":"T"},
+                                  {"<>":"th","scope":"col","title":"Wednesday","html":"W"},
+                                  {"<>":"th","scope":"col","title":"Thursday","html":"T"},
+                                  {"<>":"th","scope":"col","title":"Friday","html":"F"},
+                                  {"<>":"th","scope":"col","title":"Saturday","html":"S"},
+                                  {"<>":"th","scope":"col","title":"Sunday","html":"S"}
+                                ]}
+                            ]},
+                          {"<>":"tfoot","html":[
+                              {"<>":"tr","html":[
+                                  {"<>":"td","colspan":"3","id":"prev","html":[
+                                      {"<>":"a","href":"https://alkavadlo.com/2019/06/","html":"« Jun"}
+                                    ]},
+                                  {"<>":"td","class":"pad","html":" "},
+                                  {"<>":"td","colspan":"3","id":"next","class":"pad","html":" "}
+                                ]}
+                            ]},
+                          {"<>":"tbody","html":[
+                              {"<>":"tr","html":[
+                                  {"<>":"td","colspan":"6","class":"pad","html":" "},
+                                  {"<>":"td","html":"1"}
+                                ]},
+                              {"<>":"tr","html":[
+                                  {"<>":"td","html":"2"},
+                                  {"<>":"td","html":"3"},
+                                  {"<>":"td","html":"4"},
+                                  {"<>":"td","html":"5"},
+                                  {"<>":"td","html":"6"},
+                                  {"<>":"td","html":"7"},
+                                  {"<>":"td","html":"8"}
+                                ]},
+                              {"<>":"tr","html":[
+                                  {"<>":"td","html":"9"},
+                                  {"<>":"td","html":"10"},
+                                  {"<>":"td","html":"11"},
+                                  {"<>":"td","html":"12"},
+                                  {"<>":"td","html":"13"},
+                                  {"<>":"td","html":"14"},
+                                  {"<>":"td","html":"15"}
+                                ]},
+                              {"<>":"tr","html":[
+                                  {"<>":"td","html":"16"},
+                                  {"<>":"td","html":"17"},
+                                  {"<>":"td","html":"18"},
+                                  {"<>":"td","id":"today","html":"19"},
+                                  {"<>":"td","html":"20"},
+                                  {"<>":"td","html":"21"},
+                                  {"<>":"td","html":"22"}
+                                ]},
+                              {"<>":"tr","html":[
+                                  {"<>":"td","html":"23"},
+                                  {"<>":"td","html":"24"},
+                                  {"<>":"td","html":"25"},
+                                  {"<>":"td","html":"26"},
+                                  {"<>":"td","html":"27"},
+                                  {"<>":"td","html":"28"},
+                                  {"<>":"td","html":"29"}
+                                ]},
+                              {"<>":"tr","html":[
+                                  {"<>":"td","html":"30"},
+                                  {"<>":"td","html":"31"},
+                                  {"<>":"td","class":"pad","colspan":"5","html":" "}
+                                ]}
+                            ]}
+                        ]}
+                    ]}
+                ]},
+              {"<>":"div","class":"col-sm-3 col-xs-6","html":[
+                  {"<>":"h3","html":"Main Menu"},
+                  {"<>":"div","class":"menu-topmenu-container","html":[
+                      {"<>":"ul","id":"menu-topmenu-2","class":"menu","html":[
+                          {"<>":"li","class":"menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-15722 current_page_item menu-item-15729","html":[
+                              {"<>":"a","href":"https://alkavadlo.com/","aria-current":"page","html":"Home"}
+                            ]},
+                          {"<>":"li","class":"menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-15742","html":[
+                              {"<>":"a","href":"https://alkavadlo.com#alkavadlo","aria-current":"page","html":"About Al"}
+                            ]},
+                          {"<>":"li","class":"menu-item menu-item-type-post_type menu-item-object-page menu-item-30805","html":[
+                              {"<>":"a","href":"https://alkavadlo.com/my-philosophy/","html":"My Philosophy"}
+                            ]},
+                          {"<>":"li","class":"menu-item menu-item-type-custom menu-item-object-custom menu-item-15966","html":[
+                              {"<>":"a","href":"https://alkavadlo.com/calisthenics-books-dvds-and-apps/","html":"Books & More!"}
+                            ]},
+                          {"<>":"li","class":"menu-item menu-item-type-post_type menu-item-object-page menu-item-15975","html":[
+                              {"<>":"a","href":"https://alkavadlo.com/faq-main/","html":"FAQs"}
+                            ]},
+                          {"<>":"li","class":"menu-item menu-item-type-post_type menu-item-object-page menu-item-23623","html":[
+                              {"<>":"a","href":"https://alkavadlo.com/blog/","html":"Blog"}
+                            ]},
+                          {"<>":"li","class":"menu-item menu-item-type-post_type menu-item-object-page menu-item-30804","html":[
+                              {"<>":"a","href":"https://alkavadlo.com/contact-me/","html":"Contact Me"}
+                            ]}
+                        ]}
+                    ]}
+                ]},
+              {"<>":"div","class":"col-sm-3 col-xs-6","html":[
+                  {"<>":"h3","html":"Blog Categories"},
+                  {"<>":"div","class":"tagcloud","html":[
+                      {"<>":"a","href":"https://alkavadlo.com/category/body-weight-exercises/","class":"tag-cloud-link tag-link-3 tag-link-position-1","style":"font-size: 22pt;","aria-label":"Body Weight Exercises (145 items)","html":"Body Weight Exercises"},
+                      {"<>":"a","href":"https://alkavadlo.com/category/client-spotlight/","class":"tag-cloud-link tag-link-4 tag-link-position-2","style":"font-size: 14pt;","aria-label":"Client Spotlight (15 items)","html":"Client Spotlight"},
+                      {"<>":"a","href":"https://alkavadlo.com/category/diet-and-lifestyle/","class":"tag-cloud-link tag-link-5 tag-link-position-3","style":"font-size: 12.6666666667pt;","aria-label":"Diet and Lifestyle (10 items)","html":"Diet and Lifestyle"},
+                      {"<>":"a","href":"https://alkavadlo.com/category/inspirational/","class":"tag-cloud-link tag-link-6 tag-link-position-4","style":"font-size: 15.75pt;","aria-label":"Inspirational (25 items)","html":"Inspirational"},
+                      {"<>":"a","href":"https://alkavadlo.com/category/parkour/","class":"tag-cloud-link tag-link-9 tag-link-position-5","style":"font-size: 14.25pt;","aria-label":"Parkour (16 items)","html":"Parkour"},
+                      {"<>":"a","href":"https://alkavadlo.com/category/podcasts/","class":"tag-cloud-link tag-link-22 tag-link-position-6","style":"font-size: 9.83333333333pt;","aria-label":"Podcasts (4 items)","html":"Podcasts"},
+                      {"<>":"a","href":"https://alkavadlo.com/category/pull-ups/","class":"tag-cloud-link tag-link-10 tag-link-position-7","style":"font-size: 17pt;","aria-label":"Pull-ups! (35 items)","html":"Pull-ups!"},
+                      {"<>":"a","href":"https://alkavadlo.com/category/rants-and-raves/","class":"tag-cloud-link tag-link-11 tag-link-position-8","style":"font-size: 20.8333333333pt;","aria-label":"Rants and Raves (104 items)","html":"Rants and Raves"},
+                      {"<>":"a","href":"https://alkavadlo.com/category/running/","class":"tag-cloud-link tag-link-12 tag-link-position-9","style":"font-size: 15.9166666667pt;","aria-label":"Running (26 items)","html":"Running"},
+                      {"<>":"a","href":"https://alkavadlo.com/category/strength-and-conditioning/","class":"tag-cloud-link tag-link-13 tag-link-position-10","style":"font-size: 19.8333333333pt;","aria-label":"Strength and Conditioning (78 items)","html":"Strength and Conditioning"},
+                      {"<>":"a","href":"https://alkavadlo.com/category/stretching/","class":"tag-cloud-link tag-link-14 tag-link-position-11","style":"font-size: 10.5pt;","aria-label":"Stretching (5 items)","html":"Stretching"},
+                      {"<>":"a","href":"https://alkavadlo.com/category/the-mindbody-connection/","class":"tag-cloud-link tag-link-15 tag-link-position-12","style":"font-size: 14.5pt;","aria-label":"The Mind/Body Connection (17 items)","html":"The Mind/Body Connection"},
+                      {"<>":"a","href":"https://alkavadlo.com/category/uncategorized/","class":"tag-cloud-link tag-link-1 tag-link-position-13","style":"font-size: 8pt;","aria-label":"Uncategorized (2 items)","html":"Uncategorized"},
+                      {"<>":"a","href":"https://alkavadlo.com/category/working-out-your-legs/","class":"tag-cloud-link tag-link-16 tag-link-position-14","style":"font-size: 14.6666666667pt;","aria-label":"Working Out Your Legs (18 items)","html":"Working Out Your Legs"}
+                    ]}
+                ]}
+            ]}
+        ]}
+    ]},
+  {"<>":"footer","id":"footer","class":"midnight-blue","html":[
+      {"<>":"div","class":"container","html":[
+          {"<>":"div","class":"row","html":[
+              {"<>":"div","class":"col-sm-6","html":[
+                  {"<>":"a","target":"_blank","href":"http://mindtattoos.com/","html":" Created by MindTattoos.com"}
+                ]},
+              {"<>":"div","class":"col-sm-6","html":[
+                  {"<>":"ul","class":"pull-right","html":[
+                      {"<>":"li","html":[
+                          {"<>":"a","id":"gototop","class":"gototop","href":"#","html":[
+                              {"<>":"i","class":"icon-chevron-up","html":""}
+                            ]}
+                        ]}
+                    ]}
+                ]}
+            ]}
+        ]}
+    ]},
+  {"<>":"script","html":"\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\n\n  ga('create', 'UA-11164011-1', 'auto');\n  ga('send', 'pageview');\n\n"},
+  {"<>":"script","type":"text/javascript","src":"https://alkavadlo.com/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=13.1.1","html":""},
+  {"<>":"script","type":"text/javascript","src":"https://alkavadlo.com/wp-includes/js/wp-embed.min.js?ver=5.2.3","html":""}
+]

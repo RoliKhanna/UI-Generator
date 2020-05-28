@@ -1,0 +1,248 @@
+[
+  {"<>":"meta","charset":"UTF-8","html":""},
+  {"<>":"meta","name":"viewport","content":"width=device-width, initial-scale=1.0","html":""},
+  {"<>":"meta","http-equiv":"X-UA-Compatible","content":"ie=edge","html":""},
+  {"<>":"title","html":"Welcome to the official website of Josh Kaufman, bestselling author – Josh Kaufman"},
+  {"<>":"meta","name":"description","content":"The official website of Josh Kaufman","html":""},
+  {"<>":"meta","name":"author","content":"Josh Kaufman","html":""},
+  {"<>":"link","rel":"stylesheet","href":"https://d33wubrfki0l68.cloudfront.net/bundles/7eb11c486bfe5322895dbc40b93451597b49325c.css","html":""},
+  {"<>":"script","src":"https://d33wubrfki0l68.cloudfront.net/js/1e28b8dca0ac07bd675a64737d06e1125203eb46/js/smartquotes-dbef2b28.js","html":""},
+  {"<>":"script","src":"https://d33wubrfki0l68.cloudfront.net/js/adc83b19e793491b1c6ea0fd8b46cd9f32e592fc/common/js/jquery.js","html":""},
+  {"<>":"link","href":"https://joshkaufman.net","rel":"canonical","html":""},
+  {"<>":"link","rel":"icon","type":"image/png","href":"/favicon-fc4c4e66.png","html":""},
+  {"<>":"link","href":"https://joshkaufman.net/feed/","rel":"alternate","title":"JoshKaufman.net","type":"application/atom+xml","html":""},
+  {"<>":"div","id":"nav","class":"max-w-full fixed pin-x pin-t bg-white z-50","html":[
+      {"<>":"nav","class":"max-w-md max-w-md md:mx-auto sm:px-1 xs:px-1 flex justify-between items-center bg-white border-bottom border-grey-lighter","html":[
+          {"<>":"div","class":"items-center text-grey-darker my-3","html":[
+              {"<>":"span","class":"font-semibold text-xl inline-block text-black text-left no-underline py-3 items-center ml-1","html":[
+                  {"<>":"a","class":"text-grey-darkest no-underline","href":"/","html":"Josh Kaufman"}
+                ]}
+            ]},
+          {"<>":"div","id":"relative main-nav","class":"items-center mt-1 mr-1","html":[
+              {"<>":"a","href":"/about-josh-kaufman/","class":"no-underline sm:inline-block text-sm px-2 py-2 leading-none text-blue-dark mr-1","html":"About"},
+              {"<>":"a","href":"/books/","class":"no-underline sm:inline-block text-sm px-2 py-2 leading-none text-blue-dark mr-1","html":"Books"},
+              {"<>":"a","href":"/writing/","class":"no-underline sm:inline-block text-sm px-2 py-2 leading-none text-blue-dark mr-1","html":"Writing"},
+              {"<>":"a","href":"/now/","class":"no-underline sm:inline-block text-sm px-2 py-2 leading-none text-blue-dark mr-1","html":"Now"}
+            ]}
+        ]}
+    ]},
+  {"<>":"section","id":"banner","class":"content-start antialiased flex flex-col m-auto bg-grey-lightest text-grey-darkest","html":[
+      {"<>":"div","class":"items-center max-w-md m-auto text-left","html":[
+          {"<>":"span","class":"font-sans rounded-full bg-grey-light uppercase px-2 py-1 text-xs font-bold mr-2","html":"New"},
+          {"<>":"span","class":"mr-2 text-left mr-auto","html":[
+              {"<>":"a","class":"text-green no-underline","href":"/how-to-fight-a-hydra/","html":[
+                  {"<>":"em","html":"How to Fight a Hydra"}
+                ]}
+            ]}
+        ]}
+    ]},
+  {"<>":"section","id":"byline","class":"antialiased font-sans max-w-md md:mx-auto sm:px-2 xs:px-2 flex flex-col text-left pt-8 pb-2","html":[
+      {"<>":"div","class":"font-large text-left flex","html":[
+          {"<>":"img","class":"w-24 h-24 rounded-full mr-4 shadow-lg","src":"https://images.ctfassets.net/d0ymucfas3rs/1EZRe3oUasg1LIjONpOHsR/055fbdf3513a912eae091d137f61d095/joshkaufman-square.jpg?w=640","alt":"Josh Kaufman","html":""},
+          {"<>":"div","class":"text-sm","html":[
+              {"<>":"h3","class":"text-black align-vertical mt-2 mb-3 text-lg","html":"Josh Kaufman"},
+              {"<>":"p","class":"text-grey-darker align-vertical mr-3","html":[
+                  {"<>":"a","class":"text-blue-dark no-underline","href":"/about-josh-kaufman/","html":"About Josh »"}
+                ]}
+            ]}
+        ]}
+    ]},
+  {"<>":"section","id":"content","class":"font-sans w-full md:mx-auto sm:px-2 xs:px-2 text-left pb-6","html":[
+      {"<>":"div","class":"w-full max-w-md md:mx-auto sm:px-2 xs:px-2 text-left","html":[
+          {"<>":"div","class":"my-8","html":[
+              {"<>":"h1","class":"font-large text-left","html":"Welcome to the official website of Josh Kaufman, bestselling author"}
+            ]},
+          {"<>":"h3","html":"What do I do, and what's in it for you?"},
+          {"<>":"p","html":"My goal is to help you make more money, get more done, and have more fun in your day-to-day life. If you want to be healthy, wealthy, wise, and happy, you'll find my research quite useful."},
+          {"<>":"p","html":"Every day, I conduct research in the following areas:"},
+          {"<>":"h2","html":"Business Fundamentals"},
+          {"<>":"p","html":[
+              {"<>":"a","href":"https://personalmba.com/book/personalmba/","class":"external","html":"how successful businesses really work"}
+            ]},
+          {"<>":"h2","html":"Solo Entrepreneurship"},
+          {"<>":"p","html":[
+              {"<>":"a","href":"https://personalmba.com/book/personalmba/","class":"external","html":"start your own successful business"}
+            ]},
+          {"<>":"h2","html":"Rapid Skill Acquisition"},
+          {"<>":"p","html":[
+              {"<>":"a","href":"https://personalmba.com/book/first20hours/","class":"external","html":"move through the early phases of skill acquisition as quickly as possible"}
+            ]},
+          {"<>":"h2","html":"Optimal Decision-Making"},
+          {"<>":"p","html":"How to form accurate beliefs, and how to act in ways that produce beneficial results under conditions of uncertainty, ambiguity, and incomplete information. Applied rationality and decision-making skills help you make better decisions, maximize outcomes, minimize unproductive effort, and avoid preventable mistakes."},
+          {"<>":"h2","html":"Boring Advice"},
+          {"<>":"p","html":"People tend to overlook the most valuable advice and perspective because the stuff that works isn't very sexy or attention-grabbing. Useful advice often sounds boring, but acting on that advice can produce amazing results. I focus on sifting through vast amounts of information to find high-value, systematically-underrated actions, decisions, and perspectives in every area of life."},
+          {"<>":"h2","html":"Core Human Skills"},
+          {"<>":"p","html":[
+              {"<>":"a","href":"/core-human-skills/","html":"12 core human skills"}
+            ]},
+          {"<>":"h2","html":"Personal Science"},
+          {"<>":"p","html":"How to conduct high impact, low risk experiments to improve every aspect of your life and work. In contrast to slow and expensive large-scale studies, quick and inexpensive personal experiments can help you discover new ways to solve major problems and get better results."},
+          {"<>":"a","class":"text-lg no-underline","href":"/menu/","html":[
+              {"<>":"section","class":"antialiased font-serif flex flex-col bg-blue-lightest text-blue mt-8 mb-6 py-4","html":[
+                  {"<>":"div","class":"items-center max-w-md mx-auto text-left","html":[
+                      {"<>":"span","class":"text-left mr-auto","html":"Explore JoshKaufman.net »"}
+                    ]}
+                ]}
+            ]}
+        ]}
+    ]},
+  {"<>":"section","class":"antialiased font-sans w-full bg-grey-lighter text-left text-black py-3","html":[
+      {"<>":"div","class":"mx-auto max-w-xl px-6 font-normal leading-normal","html":[
+          {"<>":"div","class":"max-w-md m-auto mb-6 text-left","html":[
+              {"<>":"script","async":"","data-uid":"3319bf02c4","src":"https://f.convertkit.com/3319bf02c4/f742008e3e.js","html":""}
+            ]}
+        ]}
+    ]},
+  {"<>":"div","class":"my-8 mx-3","html":[
+      {"<>":"div","class":"mx-auto max-w-md py-3 font-normal leading-normal mb-2","html":[
+          {"<>":"div","class":"max-w-md m-auto text-left","html":[
+              {"<>":"h2","class":"font-sans text-4xl text-blue-darker","html":"Books by Josh Kaufman"}
+            ]}
+        ]},
+      {"<>":"div","class":"bg-white mx-auto max-w-md overflow-hidden","html":[
+          {"<>":"div","class":"flex sm:items-center","html":[
+              {"<>":"a","class":"book flex-no-shrink","href":"https://personalmba.com","target":"_blank","rel":"noopener noreferrer","html":[
+                  {"<>":"img","class":"block book","src":"https://d33wubrfki0l68.cloudfront.net/b6b7cb288b66e5b675b7826fe3778927a694601e/900e9/img/personalmba-b6b7cb28.png","alt":"","html":""}
+                ]},
+              {"<>":"div","class":"text-center sm:text-left sm:flex-grow","html":[
+                  {"<>":"div","class":"mb-4","html":[
+                      {"<>":"a","href":"https://personalmba.com","class":"no-underline","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"p","class":"text-xl font-sans font-bold text-blue-darker leading-tight uppercase","html":"The Personal MBA"}
+                        ]},
+                      {"<>":"p","class":"text-lg text-grey-darker leading-tight mb-2","html":"Master the Art of Business"},
+                      {"<>":"p","class":"text-md leading-tight text-grey-dark book-caption flex-wrap","html":"A world-class business education in a single volume. Learn the universal principles behind every successful business, then use these ideas to make more money, get more done, and have more fun in your life and work."}
+                    ]},
+                  {"<>":"div","class":"","html":[
+                      {"<>":"a","href":"https://personalmba.com/us/print/","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"button","class":"text-xs font-sans font-semibold rounded-full px-4 py-1 leading-normal bg-blue-lightest border","html":"Print"}
+                        ]},
+                      {"<>":"a","href":"https://personalmba.com/us/kindle/","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"button","class":"text-xs font-sans font-semibold rounded-full px-4 py-1 leading-normal bg-blue-lightest border","html":"eBook"}
+                        ]},
+                      {"<>":"a","href":"https://personalmba.com/us/audible/","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"button","class":"text-xs font-sans font-semibold rounded-full px-4 py-1 leading-normal bg-blue-lightest border","html":"Audio"}
+                        ]}
+                    ]}
+                ]}
+            ]}
+        ]},
+      {"<>":"div","class":"bg-white mx-auto max-w-md overflow-hidden","html":[
+          {"<>":"div","class":"flex sm:items-center","html":[
+              {"<>":"a","class":"book flex-no-shrink","href":"https://first20hours.com","target":"_blank","rel":"noopener noreferrer","html":[
+                  {"<>":"img","class":"block book","src":"https://d33wubrfki0l68.cloudfront.net/5098fdc217dcb9fce366f96e3ca4e356c117985c/d53c0/img/first20hours-5098fdc2.png","alt":"","html":""}
+                ]},
+              {"<>":"div","class":"text-center sm:text-left sm:flex-grow","html":[
+                  {"<>":"div","class":"mb-4","html":[
+                      {"<>":"a","href":"https://first20hours.com","class":"no-underline","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"p","class":"text-xl font-sans font-bold text-blue-darker leading-tight uppercase","html":"The First 20 Hours"}
+                        ]},
+                      {"<>":"p","class":"text-lg text-grey-darker leading-tight mb-2","html":"How to Learn Anything… Fast!"},
+                      {"<>":"p","class":"text-md leading-tight text-grey-dark book-caption flex-wrap","html":[
+                          {"<>":"em","html":"you"}
+                        ]}
+                    ]},
+                  {"<>":"div","class":"","html":[
+                      {"<>":"a","href":"https://first20hours.com/us/print/","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"button","class":"text-xs font-sans font-semibold rounded-full px-4 py-1 leading-normal bg-blue-lightest border","html":"Print"}
+                        ]},
+                      {"<>":"a","href":"https://first20hours.com/us/kindle/","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"button","class":"text-xs font-sans font-semibold rounded-full px-4 py-1 leading-normal bg-blue-lightest border","html":"eBook"}
+                        ]},
+                      {"<>":"a","href":"https://first20hours.com/us/audible/","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"button","class":"text-xs font-sans font-semibold rounded-full px-4 py-1 leading-normal bg-blue-lightest border","html":"Audio"}
+                        ]}
+                    ]}
+                ]}
+            ]}
+        ]},
+      {"<>":"div","class":"bg-white mx-auto max-w-md overflow-hidden","html":[
+          {"<>":"div","class":"flex sm:items-center","html":[
+              {"<>":"a","class":"book flex-no-shrink","href":"https://howtofightahydra.com","target":"_blank","rel":"noopener noreferrer","html":[
+                  {"<>":"img","class":"block book","src":"https://d33wubrfki0l68.cloudfront.net/14bbd5eb2cabc81363735f44177f50f52081d968/ba210/img/hydra-14bbd5eb.png","alt":"","html":""}
+                ]},
+              {"<>":"div","class":"text-center sm:text-left sm:flex-grow","html":[
+                  {"<>":"div","class":"mb-4","html":[
+                      {"<>":"a","href":"https://howtofightahydra.com","class":"no-underline","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"p","class":"text-xl font-sans font-bold text-blue-darker leading-tight uppercase","html":"How to Fight a Hydra"}
+                        ]},
+                      {"<>":"p","class":"text-lg text-grey-darker leading-tight mb-2","html":"Face Your Fears, Pursue Your Ambitions, and Become the Hero You Are Destined to Be"},
+                      {"<>":"p","class":"text-md leading-tight text-grey-dark book-caption flex-wrap","html":"A story about summoning the courage to face the beast, fight the good fight, & persist long enough in your efforts to secure a lasting victory."}
+                    ]},
+                  {"<>":"div","class":"","html":[
+                      {"<>":"a","href":"https://aax-us-east.amazon-adsystem.com/x/c/QrxwT0mjvqOM9eonjGd2U5kAAAFqNxH5LQEAAAFKAbfIzew/https://www.amazon.com/dp/0979669502?creativeASIN=0979669502&linkCode=w61&imprToken=ez02qdurcLeD-zfJwdkGIQ&slotNum=0&tag=hydrabook-20","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"button","class":"text-xs font-sans font-semibold rounded-full px-4 py-1 leading-normal bg-blue-lightest border","html":"Print"}
+                        ]},
+                      {"<>":"a","href":"https://aax-us-east.amazon-adsystem.com/x/c/QrxwT0mjvqOM9eonjGd2U5kAAAFqNxH5LQEAAAFKAbfIzew/https://www.amazon.com/dp/B07J57YF47?creativeASIN=B07J57YF47&linkCode=w61&imprToken=ez02qdurcLeD-zfJwdkGIQ&slotNum=1&tag=hydrabook-20","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"button","class":"text-xs font-sans font-semibold rounded-full px-4 py-1 leading-normal bg-blue-lightest border","html":"eBook"}
+                        ]},
+                      {"<>":"a","href":"","target":"_blank","rel":"noopener noreferrer","html":[
+                          {"<>":"button","class":"text-xs font-sans font-semibold rounded-full px-4 py-1 leading-normal bg-blue-lightest border","html":"Audio"}
+                        ]}
+                    ]}
+                ]}
+            ]}
+        ]},
+      {"<>":"br","html":""}
+    ]},
+  {"<>":"footer","class":"font-sans bg-grey-darkest text-white","html":[
+      {"<>":"div","class":"py-8 px-8","html":[
+          {"<>":"div","class":"flex flex-wrap max-w-md mx-auto","html":[
+              {"<>":"div","class":"w-full sm:w-1/3 md:w-1/3 lg:w-1/3 xl:w-1/3 ml-auto","html":[
+                  {"<>":"p","class":"font-sans font-semibold text-md mt-6 mb-4","html":[
+                      {"<>":"a","class":"text-white no-underline","href":"https://joshkaufman.net","html":"JoshKaufman.net"}
+                    ]},
+                  {"<>":"p","class":"text-xs leading-loose","html":[
+                      {"<>":"br","html":""},
+                      {"<>":"a","class":"font-semibold text-white no-underline","href":"https://worldlywisdomventures.com","html":"Worldly Wisdom Ventures LLC"},
+                      {"<>":"br","html":""}
+                    ]}
+                ]},
+              {"<>":"div","class":"w-full sm:w-1/3 md:w-1/3 lg:w-1/3 xl:w-1/3","html":[
+                  {"<>":"p","class":"font-sans font-semibold text-md mt-6 mb-4","html":"Books"},
+                  {"<>":"p","class":"text-xs mt-2 mb-2","html":[
+                      {"<>":"a","class":"text-white no-underline","href":"https://personalmba.com","html":"The Personal MBA"}
+                    ]},
+                  {"<>":"p","class":"text-xs mt-2 mb-2","html":[
+                      {"<>":"a","class":"text-white no-underline","href":"https://first20hours.com","html":"The First 20 Hours"}
+                    ]},
+                  {"<>":"p","class":"text-xs mt-2 mb-2","html":[
+                      {"<>":"a","class":"text-white no-underline","href":"https://howtofightahydra.com","html":"How to Fight a Hydra"}
+                    ]},
+                  {"<>":"p","class":"font-sans font-semibold text-md mt-6 mb-4","html":"Courses"},
+                  {"<>":"p","class":"text-xs mt-2 mb-2","html":"Coming Soon"}
+                ]},
+              {"<>":"div","class":"w-full sm:w-1/3 md:w-1/3 lg:w-1/3 xl:w-1/3 mr-auto","html":[
+                  {"<>":"p","class":"font-sans font-semibold text-md mt-6 mb-4","html":"Legal"},
+                  {"<>":"p","class":"text-xs mt-2 mb-2","html":[
+                      {"<>":"a","class":"text-white no-underline","href":"https://worldlywisdomventures.com/terms-of-service/","html":"Terms of Service"}
+                    ]},
+                  {"<>":"p","class":"text-xs mt-2 mb-2","html":[
+                      {"<>":"a","class":"text-white no-underline","href":"https://worldlywisdomventures.com/privacy-policy/","html":"Privacy Policy"}
+                    ]},
+                  {"<>":"p","class":"text-xs mt-2 mb-2","html":[
+                      {"<>":"a","class":"text-white no-underline","href":"https://worldlywisdomventures.com/cookies-policy/","html":"Cookies Policy"}
+                    ]},
+                  {"<>":"p","class":"text-xs mt-2 mb-2","html":[
+                      {"<>":"a","class":"text-white no-underline","href":"https://worldlywisdomventures.com/security-policy/","html":"Security Policy"}
+                    ]},
+                  {"<>":"p","class":"text-xs mt-2 mb-2","html":[
+                      {"<>":"a","class":"text-white no-underline","href":"https://worldlywisdomventures.com/copyright-dmca-policy/","html":"Copyright Policy"}
+                    ]},
+                  {"<>":"p","class":"text-xs mt-2 mb-2","html":[
+                      {"<>":"a","class":"text-white no-underline","href":"https://worldlywisdomventures.com/disclosure-policy/","html":"Disclosure Policy"}
+                    ]},
+                  {"<>":"p","class":"text-xs mt-2 mb-2","html":[
+                      {"<>":"a","class":"text-white no-underline","href":"https://worldlywisdomventures.com/refund-policy/","html":"Refund Policy"}
+                    ]},
+                  {"<>":"p","class":"text-xs mt-2 mb-2","html":[
+                      {"<>":"a","class":"text-white no-underline","href":"https://worldlywisdomventures.com/contact/","html":"Contact"}
+                    ]}
+                ]}
+            ]}
+        ]}
+    ]},
+  {"<>":"script","src":"//instant.page/1.1.0","type":"module","integrity":"sha384-EwBObn5QAxP8f09iemwAJljc+sU+eUXeL9vSBw1eNmVarwhKk2F9vBEpaN9rsrtp","html":""},
+  {"<>":"script","async":"","src":"https://www.googletagmanager.com/gtag/js?id=UA-238518-1","html":""},
+  {"<>":"script","html":"\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-238518-1');\n"},
+  {"<>":"script","html":"\n(function(f, a, t, h, o, m){\n	a[h]=a[h]||function(){\n		(a[h].q=a[h].q||[]).push(arguments)\n	};\n	o=f.createElement('script'),\n	m=f.getElementsByTagName('script')[0];\n	o.async=1; o.src=t; o.id='fathom-script';\n	m.parentNode.insertBefore(o,m)\n})(document, window, '//worldlywisdom.usesfathom.com/tracker.js', 'fathom');\nfathom('set', 'siteId', 'WQQGA');\nfathom('trackPageview');\n"}
+]

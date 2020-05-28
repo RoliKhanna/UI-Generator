@@ -1,0 +1,148 @@
+[
+  {"<>":"title","html":"Dr Steven Kinnear"},
+  {"<>":"meta","http-equiv":"Content-Type","content":"text/html; charset=UTF-8","html":""},
+  {"<>":"link","rel":"stylesheet","href":"http://stevenkinnear.com/wp-content/themes/trulyminimal/style.css","type":"text/css","media":"screen","html":""},
+  {"<>":"link","rel":"pingback","href":"http://stevenkinnear.com/xmlrpc.php","html":""},
+  {"<>":"link","rel":"archives","title":"October 2016","href":"http://stevenkinnear.com/2016/10/","html":""},
+  {"<>":"link","rel":"archives","title":"November 2015","href":"http://stevenkinnear.com/2015/11/","html":""},
+  {"<>":"link","rel":"archives","title":"March 2015","href":"http://stevenkinnear.com/2015/03/","html":""},
+  {"<>":"link","rel":"archives","title":"February 2015","href":"http://stevenkinnear.com/2015/02/","html":""},
+  {"<>":"link","rel":"archives","title":"October 2014","href":"http://stevenkinnear.com/2014/10/","html":""},
+  {"<>":"link","rel":"archives","title":"July 2014","href":"http://stevenkinnear.com/2014/07/","html":""},
+  {"<>":"link","rel":"archives","title":"April 2014","href":"http://stevenkinnear.com/2014/04/","html":""},
+  {"<>":"link","rel":"archives","title":"December 2013","href":"http://stevenkinnear.com/2013/12/","html":""},
+  {"<>":"link","rel":"archives","title":"July 2013","href":"http://stevenkinnear.com/2013/07/","html":""},
+  {"<>":"link","rel":"archives","title":"May 2013","href":"http://stevenkinnear.com/2013/05/","html":""},
+  {"<>":"link","rel":"archives","title":"April 2013","href":"http://stevenkinnear.com/2013/04/","html":""},
+  {"<>":"link","rel":"archives","title":"March 2013","href":"http://stevenkinnear.com/2013/03/","html":""},
+  {"<>":"link","rel":"archives","title":"February 2013","href":"http://stevenkinnear.com/2013/02/","html":""},
+  {"<>":"link","rel":"archives","title":"January 2013","href":"http://stevenkinnear.com/2013/01/","html":""},
+  {"<>":"link","rel":"archives","title":"December 2012","href":"http://stevenkinnear.com/2012/12/","html":""},
+  {"<>":"link","rel":"archives","title":"November 2012","href":"http://stevenkinnear.com/2012/11/","html":""},
+  {"<>":"link","rel":"archives","title":"October 2012","href":"http://stevenkinnear.com/2012/10/","html":""},
+  {"<>":"link","rel":"archives","title":"September 2012","href":"http://stevenkinnear.com/2012/09/","html":""},
+  {"<>":"link","rel":"alternate","type":"application/rss+xml","title":"Dr Steven Kinnear » Feed","href":"http://stevenkinnear.com/feed/","html":""},
+  {"<>":"link","rel":"alternate","type":"application/rss+xml","title":"Dr Steven Kinnear » Comments Feed","href":"http://stevenkinnear.com/comments/feed/","html":""},
+  {"<>":"link","rel":"stylesheet","id":"contact-form-7-css","href":"http://stevenkinnear.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.1.1","type":"text/css","media":"all","html":""},
+  {"<>":"link","rel":"stylesheet","id":"social-widget-css","href":"http://stevenkinnear.com/wp-content/plugins/social-media-widget/social_widget.css?ver=4.1.29","type":"text/css","media":"all","html":""},
+  {"<>":"script","type":"text/javascript","src":"http://stevenkinnear.com/wp-includes/js/jquery/jquery.js?ver=1.11.1","html":""},
+  {"<>":"script","type":"text/javascript","src":"http://stevenkinnear.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1","html":""},
+  {"<>":"script","type":"text/javascript","src":"http://stevenkinnear.com/wp-content/themes/trulyminimal/js/load-scripts.php?load=jquery.fancybox.min.js%2Cjquery.imagefit.min.js%2Cjquery.youtubefit.min.js%2Cjquery.focusform.min.js%2Cjquery.hoverintent.min.js%2Cjquery.superfish.min.js%2Cjquery.supersubs.min.js%2Ctheme.core.min.js%2C&ver=4.1.29","html":""},
+  {"<>":"link","rel":"EditURI","type":"application/rsd+xml","title":"RSD","href":"http://stevenkinnear.com/xmlrpc.php?rsd","html":""},
+  {"<>":"link","rel":"wlwmanifest","type":"application/wlwmanifest+xml","href":"http://stevenkinnear.com/wp-includes/wlwmanifest.xml","html":""},
+  {"<>":"meta","name":"generator","content":"WordPress 4.1.29","html":""},
+  {"<>":"link","rel":"canonical","href":"http://stevenkinnear.com/","html":""},
+  {"<>":"link","rel":"shortlink","href":"http://stevenkinnear.com/","html":""},
+  {"<>":"script","type":"text/javascript","html":"\n	jQuery(function(){\n		jQuery('.frameworkad').click(function() {\n			var id = jQuery(this).attr("id");\n			var split = id.split("-");\n\n			jQuery.get("http://stevenkinnear.com/wp-content/themes/trulyminimal/includes/framework/plugins/advertising/advertising.out.php?ad="+split[1]);	\n		});\n	});\n	"},
+  {"<>":"link","rel":"shortcut icon","href":"http://stevenkinnear.com/wp-content/themes/trulyminimal/images/favicon.ico","html":""},
+  {"<>":"style","type":"text/css","html":"\n.home .hentry .post-content, .blog .hentry .post-content {font-family: 'Arial', 'Helvetica', sans-serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }\n.search .hentry .post-content {font-family: 'Arial', 'Helvetica', sans-serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }\n.archive .hentry .post-content {font-family: 'Arial', 'Helvetica', sans-serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }\n.page .hentry .post-content {font-family: 'Arial', 'Helvetica', sans-serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }\n.single .hentry .post-content, .error404 .hentry .post-content {font-family: 'Arial', 'Helvetica', sans-serif; letter-spacing: 0.00em; text-transform: none; font-size: 14px; font-weight: normal; font-style: normal; text-decoration: none; }\n#comments ul.commentlist li.comment .comment-main .comment-content {font-family: 'Arial', 'Helvetica', sans-serif; letter-spacing: 0.00em; text-transform: none; font-size: 12px; font-weight: normal; font-style: normal; text-decoration: none; }\n"},
+  {"<>":"div","id":"header","html":[
+      {"<>":"h1","html":[
+          {"<>":"a","href":"http://stevenkinnear.com","html":"Dr Steven Kinnear"}
+        ]},
+      {"<>":"h2","html":""},
+      {"<>":"a","class":"top-logo","href":"http://stevenkinnear.com","html":[
+          {"<>":"img","src":"http://stevenkinnear.com/wp-content/uploads/2012/09/stevenlogo22.png","alt":"Dr Steven Kinnear","html":""}
+        ]}
+    ]},
+  {"<>":"div","id":"navbar","html":[
+      {"<>":"ul","id":"top-menu","class":"menu","html":[
+          {"<>":"li","id":"menu-item-17","class":"menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8 current_page_item menu-item-17","html":[
+              {"<>":"a","href":"http://stevenkinnear.com/","html":"About Me"}
+            ]},
+          {"<>":"li","id":"menu-item-53","class":"menu-item menu-item-type-post_type menu-item-object-page menu-item-53","html":[
+              {"<>":"a","href":"http://stevenkinnear.com/blog/","html":"Blog"}
+            ]},
+          {"<>":"li","id":"menu-item-693","class":"menu-item menu-item-type-taxonomy menu-item-object-category menu-item-693","html":[
+              {"<>":"a","href":"http://stevenkinnear.com/category/news/","html":"News"}
+            ]},
+          {"<>":"li","id":"menu-item-18","class":"menu-item menu-item-type-post_type menu-item-object-page menu-item-18","html":[
+              {"<>":"a","href":"http://stevenkinnear.com/books/","html":"Books"}
+            ]},
+          {"<>":"li","id":"menu-item-15","class":"menu-item menu-item-type-post_type menu-item-object-page menu-item-15","html":[
+              {"<>":"a","href":"http://stevenkinnear.com/contact/","html":"Contact"}
+            ]},
+          {"<>":"li","id":"menu-item-16","class":"menu-item menu-item-type-post_type menu-item-object-page menu-item-16","html":[
+              {"<>":"a","href":"http://stevenkinnear.com/hire-me/","html":"Hire Me"}
+            ]}
+        ]},
+      {"<>":"div","class":"clear","html":""}
+    ]},
+  {"<>":"div","id":"main","html":[
+      {"<>":"div","id":"sidebar","html":[
+          {"<>":"div","id":"social-widget-3","class":"widget-container Social_Widget","html":[
+              {"<>":"h3","class":"widget-title","html":"Connect With Me"},
+              {"<>":"div","class":"socialmedia-buttons smw_left","html":[
+                  {"<>":"a","href":"https://www.facebook.com/stevenrkinnear","rel":"nofollow","target":"_blank","html":[
+                      {"<>":"img","width":"32","height":"32","src":"http://stevenkinnear.com/wp-content/plugins/social-media-widget/images/default/32/facebook.png","alt":"Follow Me on Facebook","title":"Follow Me on Facebook","style":"opacity: 0.8; -moz-opacity: 0.8;","class":"fade","html":""}
+                    ]},
+                  {"<>":"a","href":"https://twitter.com/DrStevenKinnear","rel":"nofollow","target":"_blank","html":[
+                      {"<>":"img","width":"32","height":"32","src":"http://stevenkinnear.com/wp-content/plugins/social-media-widget/images/default/32/twitter.png","alt":"Follow Me on Twitter","title":"Follow Me on Twitter","style":"opacity: 0.8; -moz-opacity: 0.8;","class":"fade","html":""}
+                    ]},
+                  {"<>":"a","href":"http://www.linkedin.com/in/stevenkinnear","rel":"nofollow","target":"_blank","html":[
+                      {"<>":"img","width":"32","height":"32","src":"http://stevenkinnear.com/wp-content/plugins/social-media-widget/images/default/32/linkedin.png","alt":"Follow Me on LinkedIn","title":"Follow Me on LinkedIn","style":"opacity: 0.8; -moz-opacity: 0.8;","class":"fade","html":""}
+                    ]},
+                  {"<>":"a","href":"mailto:sk@stevenkinnear.com","rel":"nofollow","target":"_blank","html":[
+                      {"<>":"img","width":"32","height":"32","src":"http://stevenkinnear.com/wp-content/plugins/social-media-widget/images/default/32/email.png","alt":"Follow Me on E-mail","title":"Follow Me on E-mail","style":"opacity: 0.8; -moz-opacity: 0.8;","class":"fade","html":""}
+                    ]}
+                ]},
+              {"<>":"div","class":"clear","html":""}
+            ]},
+          {"<>":"div","id":"text-2","class":"widget-container widget_text","html":[
+              {"<>":"h3","class":"widget-title","html":"Follow Me on Twitter"},
+              {"<>":"div","class":"textwidget","html":[
+                  {"<>":"div","id":"twitterbox","style":"width: 267px;\n    border: 1px solid #ccc;\n    border-radius: 5px;\n    margin-left: 1px;","html":[
+                      {"<>":"a","class":"twitter-timeline","width":"267","height":"400","href":"https://twitter.com/DrStevenKinnear","data-widget-id":"251127212483420161","html":"Tweets by @DrStevenKinnear"},
+                      {"<>":"script","html":"!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");"}
+                    ]}
+                ]},
+              {"<>":"div","class":"clear","html":""}
+            ]}
+        ]},
+      {"<>":"div","id":"content","html":[
+          {"<>":"div","id":"post-8","class":"post-8 page type-page status-publish hentry","html":[
+              {"<>":"h2","class":"post-title","html":"About Me"},
+              {"<>":"div","class":"post-content","html":[
+                  {"<>":"p","html":[
+                      {"<>":"a","href":"http://stevenkinnear.com/wp-content/uploads/2012/09/steven1.jpg","rel":"image_group","html":[
+                          {"<>":"img","class":"alignright  wp-image-62","title":"Steven Kinnear","src":"http://stevenkinnear.com/wp-content/uploads/2012/09/steven1-300x300.jpg","alt":"Steven Kinnear","width":"180","height":"180","html":""}
+                        ]}
+                    ]},
+                  {"<>":"h2","html":"Physician"},
+                  {"<>":"p","html":"I’m a GP Principal at Silverbirch Medical Practice in Bangor, Co. Down.  Prior to undertaking training in General Practice on the North Down rotation I was a Medical Manager at the Health and Social Care Board in Northern Ireland for three years and prior to this I was a Registrar in Acute Medicine.  I was formerly a GMC Associate for Visits to Deaneries.  I was then appointed as a GMC Fitness to Practice Panellist through open competition before transferring to the Interim Orders Panel under the new Medical Practitioners’ Tribunal Service (MPTS)."},
+                  {"<>":"h2","html":"Freelance Consultant"},
+                  {"<>":"p","html":[
+                      {"<>":"a","href":"http://www.kinnearconsulting.com/Pages/default.aspx","target":"_blank","html":"consultancy business"}
+                    ]},
+                  {"<>":"h2","html":"Philomath"},
+                  {"<>":"p","html":[
+                      {"<>":"a","title":"Books","href":"http://stevenkinnear.com/books/","html":"here"}
+                    ]},
+                  {"<>":"h2","html":"Doctorpreneur"},
+                  {"<>":"p","html":"I’m a doctor that applies entrepreneurial thinking in healthcare (and outside healthcare too). In my clinical and management jobs in the health service I always look for opportunities for improvement and challenge the status quo."},
+                  {"<>":"p","html":[
+                      {"<>":"a","href":"http://medleadsymposium.co.uk/","html":"http://medleadsymposium.co.uk"}
+                    ]},
+                  {"<>":"p","html":[
+                      {"<>":"a","href":"http://hscchangeday.com/changeday/Home.html","target":"_blank","html":"HSC Changeday website"},
+                      {"<>":"a","href":"https://twitter.com/HSCchangeday","target":"_blank","html":"HSC Changeday on Twitter"}
+                    ]},
+                  {"<>":"p","html":[
+                      {"<>":"a","title":"Hire Me","href":"http://stevenkinnear.com/hire-me/","html":"hire me"}
+                    ]},
+                  {"<>":"div","class":"clear","html":""}
+                ]},
+              {"<>":"div","class":"clear","html":""}
+            ]}
+        ]},
+      {"<>":"div","class":"clear","html":""}
+    ]},
+  {"<>":"div","id":"footer","html":[
+      {"<>":"a","href":"http://stevenkinnear.com","title":"Dr Steven Kinnear","rel":"home","html":"Dr Steven Kinnear"},
+      {"<>":"br","html":""}
+    ]},
+  {"<>":"script","type":"text/javascript","src":"http://stevenkinnear.com/wp-includes/js/comment-reply.min.js?ver=4.1.29","html":""},
+  {"<>":"script","type":"text/javascript","src":"http://stevenkinnear.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20","html":""},
+  {"<>":"script","type":"text/javascript","html":"\n/* <![CDATA[ */\nvar _wpcf7 = {"loaderUrl":"http:\/\/stevenkinnear.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};\n/* ]]> */\n"},
+  {"<>":"script","type":"text/javascript","src":"http://stevenkinnear.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.1.1","html":""}
+]

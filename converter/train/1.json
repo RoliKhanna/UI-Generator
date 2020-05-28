@@ -1,0 +1,431 @@
+[
+  {"<>":"meta","http-equiv":"Content-Type","content":"text/html; charset=UTF-8","html":""},
+  {"<>":"title","html":"recently :  TEJU COLE"},
+  {"<>":"link","rel":"stylesheet","href":"http://www.tejucole.com/wp-content/themes/cephas_manifest/style.css","type":"text/css","media":"screen","charset":"utf-8","html":""},
+  {"<>":"link","rel":"alternate","type":"application/rss+xml","title":"TEJU COLE RSS Feed","href":"http://www.tejucole.com/feed/","html":""},
+  {"<>":"link","rel":"alternate","type":"application/atom+xml","title":"TEJU COLE Atom Feed","href":"http://www.tejucole.com/feed/atom/","html":""},
+  {"<>":"script","type":"text/javascript","src":"http://www.tejucole.com/wp-content/themes/cephas_manifest/js/jquery-1.3.2.min.js","charset":"utf-8","html":"\n    \n  "},
+  {"<>":"link","rel":"pingback","href":"http://www.tejucole.com/xmlrpc.php","html":""},
+  {"<>":"link","rel":"dns-prefetch","href":"//maxcdn.bootstrapcdn.com","html":""},
+  {"<>":"link","rel":"dns-prefetch","href":"//s.w.org","html":""},
+  {"<>":"script","type":"text/javascript","html":"b.addEventListener?(b.addEventListener()"},
+  {"<>":"style","type":"text/css","html":"\nimg.wp-smiley,\nimg.emoji {\n	display: inline !important;\n	border: none !important;\n	box-shadow: none !important;\n	height: 1em !important;\n	width: 1em !important;\n	margin: 0 .07em !important;\n	vertical-align: -0.1em !important;\n	background: none !important;\n	padding: 0 !important;\n}\n"},
+  {"<>":"link","rel":"stylesheet","id":"sb_instagram_styles-css","href":"http://www.tejucole.com/wp-content/plugins/instagram-feed-pro/css/sb-instagram.css?ver=2.2.1","type":"text/css","media":"all","html":""},
+  {"<>":"link","rel":"stylesheet","id":"sbi-font-awesome-css","href":"https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css?ver=4.6.3","type":"text/css","media":"all","html":""},
+  {"<>":"link","rel":"stylesheet","id":"parent-style-css","href":"http://www.tejucole.com/wp-content/themes/manifest_v1.1/style.css?ver=4.7.16","type":"text/css","media":"all","html":""},
+  {"<>":"link","rel":"stylesheet","id":"child-style-css","href":"http://www.tejucole.com/wp-content/themes/cephas_manifest/style.css?ver=4.7.16","type":"text/css","media":"all","html":""},
+  {"<>":"script","type":"text/javascript","src":"http://www.tejucole.com/wp-includes/js/jquery/jquery.js?ver=1.12.4","html":""},
+  {"<>":"script","type":"text/javascript","src":"http://www.tejucole.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1","html":""},
+  {"<>":"link","rel":"https://api.w.org/","href":"http://www.tejucole.com/wp-json/","html":""},
+  {"<>":"link","rel":"EditURI","type":"application/rsd+xml","title":"RSD","href":"http://www.tejucole.com/xmlrpc.php?rsd","html":""},
+  {"<>":"link","rel":"wlwmanifest","type":"application/wlwmanifest+xml","href":"http://www.tejucole.com/wp-includes/wlwmanifest.xml","html":""},
+  {"<>":"meta","name":"generator","content":"WordPress 4.7.16","html":""},
+  {"<>":"link","rel":"shortlink","href":"http://wp.me/PygRd-iB","html":""},
+  {"<>":"link","rel":"alternate","type":"application/json+oembed","href":"http://www.tejucole.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.tejucole.com%2Frecently%2F","html":""},
+  {"<>":"link","rel":"alternate","type":"text/xml+oembed","href":"http://www.tejucole.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.tejucole.com%2Frecently%2F&format=xml","html":""},
+  {"<>":"link","rel":"stylesheet","href":"//www.tejucole.com/wp-content/themes/cephas_manifest/css/cephas.css?ver=2","html":""},
+  {"<>":"script","async":"","src":"https://www.googletagmanager.com/gtag/js?id=UA-3975837-15","html":""},
+  {"<>":"script","html":"\nwindow.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'UA-3975837-15');\n"},
+  {"<>":"div","id":"siteWrapper","html":[
+      {"<>":"h1","class":"vcard author","html":[
+          {"<>":"a","href":"http://www.tejucole.com/","title":"Home","class":"fn","html":"TEJU COLE"}
+        ]},
+      {"<>":"div","id":"mainNav","html":[
+          {"<>":"ul","html":[
+              {"<>":"li","class":"page_item page-item-2","html":[
+                  {"<>":"a","href":"http://www.tejucole.com/","html":"Home"}
+                ]},
+              {"<>":"li","class":"page_item page-item-48 page_item_has_children","html":[
+                  {"<>":"a","href":"http://www.tejucole.com/books/","html":"books"}
+                ]},
+              {"<>":"li","class":"page_item page-item-119","html":[
+                  {"<>":"a","href":"http://www.tejucole.com/photography/","html":"photography"}
+                ]},
+              {"<>":"li","class":"page_item page-item-369","html":[
+                  {"<>":"a","href":"http://www.tejucole.com/about-2/","html":"bio"}
+                ]},
+              {"<>":"li","class":"page_item page-item-127","html":[
+                  {"<>":"a","href":"http://www.tejucole.com/other-words/","html":"contact & links"}
+                ]},
+              {"<>":"li","class":"page_item page-item-507","html":[
+                  {"<>":"a","href":"http://www.tejucole.com/events/","html":"events"}
+                ]},
+              {"<>":"li","class":"page_item page-item-1044","html":[
+                  {"<>":"a","href":"http://www.tejucole.com/secondary-literature/","html":"secondary literature"}
+                ]},
+              {"<>":"li","class":"page_item page-item-1153 current_page_item","html":[
+                  {"<>":"a","href":"http://www.tejucole.com/recently/","html":"recently"}
+                ]}
+            ]}
+        ]},
+      {"<>":"div","id":"siteDescription","html":"\n      "},
+      {"<>":"div","id":"coreContent","html":[
+          {"<>":"div","class":"post hentry single","id":"post-1153","html":[
+              {"<>":"div","class":"postContent","html":[
+                  {"<>":"h2","class":"entry-title","html":"recently"},
+                  {"<>":"div","class":"entry-content","html":[
+                      {"<>":"p","style":"text-align: center;","html":[
+                          {"<>":"a","href":"http://www.tejucole.com/wp-content/uploads/13.jpg","html":[
+                              {"<>":"img","class":"aligncenter wp-image-1465","src":"http://www.tejucole.com/wp-content/uploads/13-1024x679.jpg","alt":"","width":"500","height":"331","srcset":"http://www.tejucole.com/wp-content/uploads/13-1024x679.jpg 1024w, http://www.tejucole.com/wp-content/uploads/13-300x199.jpg 300w, http://www.tejucole.com/wp-content/uploads/13-768x509.jpg 768w","sizes":"(max-width: 500px) 100vw, 500px","html":""}
+                            ]}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://harvardmagazine.com/2019/05/commencement-teju-cole","html":"Class Day speech"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://www.gsd.harvard.edu/2019/05/teju-cole-on-the-unpredictability-and-potential-of-the-city-once-you-give-up-insisting-on-stereotypes-you-can-really-start-to-see/","html":"Profile"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://www.nytimes.com/2018/12/18/magazine/best-photo-books-2018.html","html":"The Best Photo Books of 2018"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://open.spotify.com/user/tejucole/playlist/69D9w5rj99XQ5be0ZNWAM4?si=W7R16BVmQWmA-1stKUMRLg","html":"Jaama Rek"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://open.spotify.com/user/tejucole/playlist/01uoqaZzimg6QeDRXnixKR?si=hOI4jdKZSwypMFRDE6dhHw","html":"beijos"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://www.nytimes.com/2018/11/21/magazine/a-chronicle-of-life-and-pain-in-upstate-new-york.html","html":"A Chronicle of Life and Pain in Upstate New York"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://open.spotify.com/user/tejucole/playlist/2iSmrlUZ6HijhrDCUu9MKG?si=inO7vppdQAaYW3eFsOYcdQ","html":"The Companions"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://www.nytimes.com/2018/10/25/magazine/dispatches-from-a-ruined-paradise.html","html":"Dispatches From a Ruined Paradise"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://www.dropbox.com/s/xtgttc0pwup925k/On%20The%20Way.mp3?dl=0","html":"download mp3"},
+                          {"<>":"a","href":"https://open.spotify.com/user/tejucole/playlist/4xo6J32L2YzNpRlLwbyEgq?si=3kdqML17RbyaoxPNViEC-g","html":"Spotify"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://open.spotify.com/user/tejucole/playlist/3epzAACvD3nGSNHhf2vwgw?si=VBZ6Y_ceQl2vMgpq9H_-Lw","html":"27 Roads"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://www.nytimes.com/2018/09/27/magazine/photographing-past-stereotype.html","html":"Photographing Past Stereotype"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://www.nytimes.com/2018/09/08/magazine/teju-cole-resistance-op-ed-resist-refuse.html","html":"Resist, Refuse"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://open.spotify.com/user/tejucole/playlist/3k3dGwOIgWJIqDUHEDTeLx?si=vfwG_7xhTSC8hT7h43lbfg","html":"Traveling Mercies"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://www.nytimes.com/2018/08/23/magazine/theres-less-to-portraits-than-meets-the-eye-and-more.html","html":"There’s Less to Portraits Than Meets the Eye, and More"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://open.spotify.com/user/tejucole/playlist/5egDXDTaA7DjwdPFwiOnDi?si=OwaJKW4LRRqNeSFKGGNXOA","html":"Take A Chance"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://www.nytimes.com/2018/06/27/magazine/take-a-photo-here.html","html":"Take a Photo Here"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://open.spotify.com/user/tejucole/playlist/16ZrmBvbNXTrZCWVbl76Uz?si=VauMY7jeRpaiGh81zDFSzw","html":"más al sur"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"http://www.liquidmusic.org/blog/exploring-the-irrepressibly-subjective-with-teju-cole","html":"Exploring the “Irrepressibly Subjective”"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://www.nytimes.com/2018/05/24/magazine/what-does-it-mean-to-look-at-this.html","html":"What Does It Mean to Look at This?"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://soundcloud.com/tejucole/black-paper","html":"BLACK PAPER"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://open.spotify.com/user/tejucole/playlist/5FSQrqvK0sdKcAmUSEGsCM?si=syuleYYHRZaCLhKGn0UDFQ","html":"The Spell"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://www.artbasel.com/news/a-defense-of-art-in-troubled-times","html":"A Defense of Art in Troubled Times"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://www.nytimes.com/2018/03/20/magazine/peter-funch-sees-the-patterns-in-the-people-on-the-street.html","html":"Peter Funch Sees the Patterns"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://open.spotify.com/user/tejucole/playlist/7IS8HnlR5LzQYK6uUzZeWK?si=wk8--0QaRE-gCaEsEQLWmg","html":"an hour of Bach"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://medium.com/s/story/on-the-blackness-of-the-panther-f76d771b0e80","html":"On the Blackness of the Panther"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://open.spotify.com/user/tejucole/playlist/3jtrsjg07khs4C3wNScSi9?si=Kh2e2dbMTqCtoOeCOeTQAA","html":"Keeping Going"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://www.nytimes.com/2018/02/15/magazine/evoking-what-cant-be-seen.html","html":"Evoking What Can’t Be Seen"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://open.spotify.com/user/tejucole/playlist/2k7sXtKRyOioI8P9zfL7k0?si=0c91q1oRRuuDCZ8EZp5OFA","html":"Did you get my letter? Vol 2"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://www.nytimes.com/2018/01/18/magazine/joel-meyerowitzs-career-is-minihistory-of-photography.html","html":"Joel Meyerowitz’s Career Is a Minihistory of Photography"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://aperture.org/blog/rick-moody-teju-cole-blind-spot/","html":"Photobook Review"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://www.nytimes.com/2017/12/30/magazine/the-best-photo-books-of-2017.html","html":"The Best Photo Books of 2017"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://open.spotify.com/user/tejucole/playlist/4xo6J32L2YzNpRlLwbyEgq","html":"On the Way"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://www.nytimes.com/2017/11/15/magazine/the-history-of-photography-is-a-history-of-shattered-glass.html","html":"The History of Photography is a History of Shattered Glass"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://www.nytimes.com/2017/11/09/arts/performa-17-review-teju-cole.html","html":" review in the New York Times"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"http://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2017#showing-48448","html":"Anthology Film Archives"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"http://17.performa-arts.org/events/teju-cole","html":"Performa Biennial"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://www.lensculture.com/articles/teju-cole-another-way-of-telling-teju-cole-s-blind-spot","html":"“Another Way of Telling,”"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://open.spotify.com/user/tejucole/playlist/1fpRhRC3KLAAF8sHz6hKLc","html":"a history of jetlag 9"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://www.nytimes.com/2017/09/07/magazine/still-lives-that-wont-hold-still.html","html":"Still Lives That Won’t Hold Still"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://open.spotify.com/user/tejucole/playlist/79JoGNv7w5aQSpPe3sANcA","html":"a history of jetlag 8"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://open.spotify.com/user/tejucole/playlist/3cmOPgikyqtB8qMDHzqBo0","html":"Luna"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://www.nytimes.com/2017/08/10/magazine/victory-in-the-shadows.html","html":"Victory in the Shadows"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"http://photographmag.com/issues/julyaugust-2017/the-back-page/","html":"On Sergio Larraín"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://open.spotify.com/user/tejucole/playlist/6gdaixLMllE5lhqfc4uQnb","html":"Dear John, Dear Coltrane"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://www.nytimes.com/2017/07/11/magazine/my-grandmothers-shroud.html","html":"My Grandmother’s Shroud"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://www.theguardian.com/books/2017/jun/29/blind-spot-teju-cole-review","html":"Guardian"},
+                          {"<>":"a","href":"http://www.slate.com/articles/arts/books/2017/06/teju_cole_s_blind_spot_reviewed.html","html":"Slate"},
+                          {"<>":"a","href":"http://www.sfgate.com/books/article/Blind-Spot-by-Teju-Cole-11245465.php#photo-13123622","html":"San Francisco Chronicle"},
+                          {"<>":"a","href":"http://www.latimes.com/books/jacketcopy/la-ca-jc-teju-cole-20170615-htmlstory.html","html":"Los Angeles Times"},
+                          {"<>":"a","href":"https://www.nytimes.com/2017/06/01/books/review/blind-spot-teju-cole.html","html":"The New York Times Book Review"},
+                          {"<>":"a","href":"http://www.themillions.com/2017/06/tk-4.html","html":"The Millions"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"http://www.newyorker.com/culture/photo-booth/second-sight","html":"Second Sight"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://open.spotify.com/user/tejucole/playlist/1Gyy9iKf7JOF00PombNb4c","html":"a history of jetlag 7"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://www.nytimes.com/2017/04/11/magazine/pictures-in-the-aftermath.html","html":"Pictures in the Aftermath"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"http://www.fsgworkinprogress.com/2017/03/landscape-on-which-memory-falls/","html":"Landscape on Which Memory Falls"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://open.spotify.com/user/tejucole/playlist/3G9Aaw8uUjw9nfeI6awgbH","html":"a history of jetlag 6"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://www.nytimes.com/2017/03/14/magazine/a-photograph-never-stands-alone.html","html":"A Photograph Never Stands Alone"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://van-us.atavist.com/the-core","html":"Van Magazine"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://open.spotify.com/user/tejucole/playlist/2RfDeM3sowv5apCcmRJT8h","html":"a history of jetlag 5: Philip Glass"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://www.nytimes.com/2017/01/31/magazine/the-image-of-time.html","html":"The Image of Time"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"http://www.pri.org/stories/2017-01-06/teju-cole-john-berger-was-kindred-spirit","html":"Remembering John Berger"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"http://www.nytimes.com/2016/12/22/magazine/the-best-photo-books-of-2016.html","html":"The Best Photo Books of 2016"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://open.spotify.com/user/tejucole/playlist/03jeHfdz6FSrxltngXCNZl","html":"Excellent Ingredients"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"http://www.nytimes.com/2016/11/29/magazine/taryn-simon-capital-diplomacy-and-carnations.html","html":"Capital, Diplomacy and Carnations"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"http://www.nytimes.com/2016/11/11/magazine/a-time-for-refusal.html","html":"A Time for Refusal"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"http://lithub.com/teju-cole-reminds-us-of-life-beyond-politics-and-the-beauty-of-art/","html":"on Lithub"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"http://www.okayafrica.com/audio/africa-in-your-earbuds/teju-cole-chief-boima-one-night-in-new-york-city-76/","html":"One Night in New York City"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://open.spotify.com/user/tejucole/playlist/2VeIKv5WZahBd3GJ0g2R7p","html":"Headlights hoovering up the darkness"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"http://www.nytimes.com/2016/10/23/magazine/surreal-photography.html","html":"Strangely Enough"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"http://www.bbc.co.uk/programmes/b07yb85h","html":"Freethinking"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"http://www.artefakt-sz.net/interview/like-a-fever-dream-an-interview-with-teju-cole","html":"“Like A Fever Dream”"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://open.spotify.com/user/tejucole/playlist/7BixLTOtKBrZYnnREXg40f","html":"a history of jetlag 4"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"http://thequietus.com/articles/20796-teju-cole-favourite-albums","html":"“Languages Inhabited”"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"http://www.npr.org/2016/08/16/490132518/everything-is-fair-game-in-known-and-strange-things","html":"All Things Considered"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"http://www.largeheartedboy.com/blog/archive/2016/08/book_notes_teju_1.html","html":"Known and Strange Songs"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"http://www.nytimes.com/2016/08/14/books/review/teju-cole-known-and-strange-things.html","html":"the New York Times"},
+                          {"<>":"a","href":"https://www.theguardian.com/books/2016/aug/07/known-and-strange-things-teju-cole-review-essays","html":"the Guardian"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"http://thenewinquiry.com/blogs/dtake/fable/","html":"Fable"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"http://www.nytimes.com/2016/07/31/magazine/the-superhero-photographs-of-the-black-lives-matter-movement.html","html":"The Superhero Photographs of Black Lives Matter"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://open.spotify.com/user/tejucole/playlist/0vwNqV9DPO7DCB1ZOF3vFJ","html":"Clear Light of July"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"http://www.nytimes.com/2016/07/03/magazine/luigi-ghirris-brilliant-photographic-puzzles.html","html":"Luigi Ghirri’s Brilliant Photographic Puzzles"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://open.spotify.com/user/tejucole/playlist/3tDsAX4zsIRtKy6CNKlF25","html":"Solstice"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"http://www.nytimes.com/2016/05/01/magazine/the-digital-afterlife-of-lost-family-photos.html","html":"The Digital Afterlife of Lost Family Photos"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"http://www.nytimes.com/2016/04/03/magazine/a-too-perfect-picture.html","html":"A Too Perfect Picture"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://open.spotify.com/user/tejucole/playlist/3tDsAX4zsIRtKy6CNKlF25","html":"Casa Bey"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://open.spotify.com/user/tejucole/playlist/25iWrTrvBb8PJIXgcXXjM8","html":"One Night in Beirut"}
+                        ]},
+                      {"<>":"p","html":[
+                          {"<>":"br","html":""},
+                          {"<>":"a","href":"https://open.spotify.com/user/tejucole","html":"all my playlists"}
+                        ]}
+                    ]}
+                ]}
+            ]},
+          {"<>":"div","id":"comments","html":"\n  \n  	  		\n\n  	  \n\n    "}
+        ]}
+    ]},
+  {"<>":"div","id":"footer","html":[
+      {"<>":"div","id":"cNoShow","style":"display:none;","html":[
+          {"<>":"h5","html":"Elsewhere"},
+          {"<>":"ul","class":"elsewhere","html":"\n      "},
+          {"<>":"div","class":"footerContent","html":[
+              [
+                {"<>":"input","type":"text","value":"","name":"s","id":"s","html":""},
+                {"<>":"input","type":"submit","id":"searchsubmit","value":"Search","html":""}
+              ]
+            ]}
+        ]},
+      {"<>":"p","html":[
+          {"<>":"a","href":"http://www.cephasinc.com/","html":"Cephas Inc"}
+        ]}
+    ]},
+  {"<>":"script","type":"text/javascript","html":"\n"},
+  {"<>":"script","type":"text/javascript","src":"http://www.tejucole.com/wp-includes/js/comment-reply.min.js?ver=4.7.16","html":""},
+  {"<>":"script","type":"text/javascript","html":"\nsb_instagram_at : 1436662413.3a81a9f.cadc3bc2936d4e79bb5cc18fe58ca234"},
+  {"<>":"script","type":"text/javascript","src":"http://www.tejucole.com/wp-content/plugins/instagram-feed-pro/js/sb-instagram.js?ver=2.2.1","html":""},
+  {"<>":"script","type":"text/javascript","src":"http://www.tejucole.com/wp-includes/js/wp-embed.min.js?ver=4.7.16","html":""},
+  {"<>":"script","src":"http://stats.wordpress.com/e-202012.js","type":"text/javascript","html":""},
+  {"<>":"script","type":"text/javascript","html":"\nst_go({blog:'8167955',v:'ext',post:'1153'});"}
+]

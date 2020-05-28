@@ -1,0 +1,402 @@
+[
+  {"<>":"meta","charset":"UTF-8","html":""},
+  {"<>":"title","html":"Home - Grant Baldwin"},
+  {"<>":"link","rel":"canonical","href":"http://grantbaldwin.com/","html":""},
+  {"<>":"meta","property":"og:locale","content":"en_US","html":""},
+  {"<>":"meta","property":"og:type","content":"website","html":""},
+  {"<>":"meta","property":"og:title","content":"Home - Grant Baldwin","html":""},
+  {"<>":"meta","property":"og:description","content":"Want to learn how to FIND AND BOOK SPEAKING GIGS? Join Our Online Training! Looking for more info on how to become a speaker? Check out The Speaker Lab. Hey, I’m Grant. Want to hire me to speak at your next event? Learn More Facebook Twitter Instagram Youtube info@grantbaldwin.com © 2016 Grant Baldwin","html":""},
+  {"<>":"meta","property":"og:url","content":"http://grantbaldwin.com/","html":""},
+  {"<>":"meta","property":"og:site_name","content":"Grant Baldwin","html":""},
+  {"<>":"meta","name":"twitter:card","content":"summary","html":""},
+  {"<>":"meta","name":"twitter:description","content":"Want to learn how to FIND AND BOOK SPEAKING GIGS? Join Our Online Training! Looking for more info on how to become a speaker? Check out The Speaker Lab. Hey, I’m Grant. Want to hire me to speak at your next event? Learn More Facebook Twitter Instagram Youtube info@grantbaldwin.com © 2016 Grant Baldwin","html":""},
+  {"<>":"meta","name":"twitter:title","content":"Home - Grant Baldwin","html":""},
+  {"<>":"meta","name":"twitter:image","content":"http://grantbaldwin.com/wp-content/uploads/2019/04/gblogo.png","html":""},
+  {"<>":"script","type":"application/ld+json","class":"yoast-schema-graph yoast-schema-graph--main","html":"{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://grantbaldwin.com/#organization","name":"","url":"http://grantbaldwin.com/","sameAs":[]},{"@type":"WebSite","@id":"http://grantbaldwin.com/#website","url":"http://grantbaldwin.com/","name":"Grant Baldwin","publisher":{"@id":"http://grantbaldwin.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"http://grantbaldwin.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"http://grantbaldwin.com/#primaryimage","url":"http://grantbaldwin.com/wp-content/uploads/2019/04/gblogo.png","width":100,"height":143},{"@type":"WebPage","@id":"http://grantbaldwin.com/#webpage","url":"http://grantbaldwin.com/","inLanguage":"en-US","name":"Home - Grant Baldwin","isPartOf":{"@id":"http://grantbaldwin.com/#website"},"about":{"@id":"http://grantbaldwin.com/#organization"},"primaryImageOfPage":{"@id":"http://grantbaldwin.com/#primaryimage"},"datePublished":"2019-04-17T01:13:07+00:00","dateModified":"2019-04-17T18:36:56+00:00"}]}"},
+  {"<>":"link","rel":"dns-prefetch","href":"//s.w.org","html":""},
+  {"<>":"script","type":"text/javascript","html":"\n			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/grantbaldwin.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.2"}};\n			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);\n		"},
+  {"<>":"style","type":"text/css","html":"\nimg.wp-smiley,\nimg.emoji {\n	display: inline !important;\n	border: none !important;\n	box-shadow: none !important;\n	height: 1em !important;\n	width: 1em !important;\n	margin: 0 .07em !important;\n	vertical-align: -0.1em !important;\n	background: none !important;\n	padding: 0 !important;\n}\n"},
+  {"<>":"link","rel":"stylesheet","id":"wp-block-library-css","href":"http://grantbaldwin.com/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2","type":"text/css","media":"all","html":""},
+  {"<>":"link","rel":"stylesheet","id":"wp-block-library-theme-css","href":"http://grantbaldwin.com/wp-includes/css/dist/block-library/theme.min.css?ver=5.3.2","type":"text/css","media":"all","html":""},
+  {"<>":"link","rel":"stylesheet","id":"tm_clicktotweet-css","href":"http://grantbaldwin.com/wp-content/plugins/click-to-tweet-by-todaymade/assets/css/styles.css?ver=5.3.2","type":"text/css","media":"all","html":""},
+  {"<>":"link","rel":"stylesheet","id":"contact-form-7-css","href":"http://grantbaldwin.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.6","type":"text/css","media":"all","html":""},
+  {"<>":"link","rel":"stylesheet","id":"twentynineteen-style-css","href":"http://grantbaldwin.com/wp-content/themes/twentynineteen/style.css?ver=1.4","type":"text/css","media":"all","html":""},
+  {"<>":"link","rel":"stylesheet","id":"twentynineteen-print-style-css","href":"http://grantbaldwin.com/wp-content/themes/twentynineteen/print.css?ver=1.4","type":"text/css","media":"print","html":""},
+  {"<>":"link","rel":"stylesheet","id":"elementor-icons-css","href":"http://grantbaldwin.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.5.0","type":"text/css","media":"all","html":""},
+  {"<>":"link","rel":"stylesheet","id":"elementor-animations-css","href":"http://grantbaldwin.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.8.3","type":"text/css","media":"all","html":""},
+  {"<>":"link","rel":"stylesheet","id":"elementor-frontend-css","href":"http://grantbaldwin.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.8.3","type":"text/css","media":"all","html":""},
+  {"<>":"link","rel":"stylesheet","id":"elementor-pro-css","href":"http://grantbaldwin.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=2.5.9","type":"text/css","media":"all","html":""},
+  {"<>":"link","rel":"stylesheet","id":"font-awesome-css","href":"http://grantbaldwin.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0","type":"text/css","media":"all","html":""},
+  {"<>":"link","rel":"stylesheet","id":"elementor-global-css","href":"http://grantbaldwin.com/wp-content/uploads/elementor/css/global.css?ver=1578582731","type":"text/css","media":"all","html":""},
+  {"<>":"link","rel":"stylesheet","id":"elementor-post-5454-css","href":"http://grantbaldwin.com/wp-content/uploads/elementor/css/post-5454.css?ver=1578582777","type":"text/css","media":"all","html":""},
+  {"<>":"link","rel":"stylesheet","id":"google-fonts-1-css","href":"https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&ver=5.3.2","type":"text/css","media":"all","html":""},
+  {"<>":"script","type":"text/javascript","src":"http://grantbaldwin.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp","html":""},
+  {"<>":"script","type":"text/javascript","src":"http://grantbaldwin.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1","html":""},
+  {"<>":"link","rel":"https://api.w.org/","href":"http://grantbaldwin.com/wp-json/","html":""},
+  {"<>":"link","rel":"EditURI","type":"application/rsd+xml","title":"RSD","href":"http://grantbaldwin.com/xmlrpc.php?rsd","html":""},
+  {"<>":"link","rel":"wlwmanifest","type":"application/wlwmanifest+xml","href":"http://grantbaldwin.com/wp-includes/wlwmanifest.xml","html":""},
+  {"<>":"link","rel":"shortlink","href":"http://grantbaldwin.com/","html":""},
+  {"<>":"link","rel":"alternate","type":"application/json+oembed","href":"http://grantbaldwin.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fgrantbaldwin.com%2F","html":""},
+  {"<>":"link","rel":"alternate","type":"text/xml+oembed","href":"http://grantbaldwin.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fgrantbaldwin.com%2F&format=xml","html":""},
+  {"<>":"meta","name":"viewport","content":"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0","html":""},
+  {"<>":"script","type":"text/javascript","html":"<!--\nfunction powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}\n//-->\n"},
+  {"<>":"style","type":"text/css","html":".recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}"},
+  {"<>":"meta","name":"viewport","content":"width=device-width, initial-scale=1.0, viewport-fit=cover","html":""},
+  {"<>":"div","data-elementor-type":"wp-post","data-elementor-id":"5454","class":"elementor elementor-5454","data-elementor-settings":"[]","html":[
+      {"<>":"div","class":"elementor-inner","html":[
+          {"<>":"div","class":"elementor-section-wrap","html":[
+              {"<>":"section","class":"elementor-element elementor-element-79b597f elementor-section-stretched elementor-section-full_width elementor-section-height-min-height elementor-section-items-top elementor-section-height-default elementor-section elementor-top-section","data-id":"79b597f","data-element_type":"section","data-settings":"{"stretch_section":"section-stretched","background_background":"classic","shape_divider_bottom":"triangle","shape_divider_bottom_negative":"yes"}","html":[
+                  {"<>":"div","class":"elementor-shape elementor-shape-bottom","data-negative":"true","html":[
+                      {"<>":"svg","xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 1000 100","preserveAspectRatio":"none","html":[
+                          {"<>":"path","class":"elementor-shape-fill","d":"M500.2,94.7L0,0v100h1000V0L500.2,94.7z","html":""}
+                        ]}
+                    ]},
+                  {"<>":"div","class":"elementor-container elementor-column-gap-default","html":[
+                      {"<>":"div","class":"elementor-row","html":[
+                          {"<>":"div","class":"elementor-element elementor-element-295bc87 elementor-column elementor-col-100 elementor-top-column","data-id":"295bc87","data-element_type":"column","html":[
+                              {"<>":"div","class":"elementor-column-wrap  elementor-element-populated","html":[
+                                  {"<>":"div","class":"elementor-widget-wrap","html":[
+                                      {"<>":"section","class":"elementor-element elementor-element-09ac51c elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section","data-id":"09ac51c","data-element_type":"section","data-settings":"{"background_background":"classic"}","html":[
+                                          {"<>":"div","class":"elementor-container elementor-column-gap-default","html":[
+                                              {"<>":"div","class":"elementor-row","html":[
+                                                  {"<>":"div","class":"elementor-element elementor-element-aac961d elementor-column elementor-col-50 elementor-inner-column","data-id":"aac961d","data-element_type":"column","html":[
+                                                      {"<>":"div","class":"elementor-column-wrap  elementor-element-populated","html":[
+                                                          {"<>":"div","class":"elementor-widget-wrap","html":[
+                                                              {"<>":"div","class":"elementor-element elementor-element-16086a8 elementor-widget elementor-widget-image","data-id":"16086a8","data-element_type":"widget","data-widget_type":"image.default","html":[
+                                                                  {"<>":"div","class":"elementor-widget-container","html":[
+                                                                      {"<>":"div","class":"elementor-image","html":[
+                                                                          {"<>":"img","width":"100","height":"143","src":"http://grantbaldwin.com/wp-content/uploads/2019/04/gblogo.png","class":"attachment-large size-large","alt":"","html":""}
+                                                                        ]}
+                                                                    ]}
+                                                                ]}
+                                                            ]}
+                                                        ]}
+                                                    ]},
+                                                  {"<>":"div","class":"elementor-element elementor-element-e1f23c8 elementor-column elementor-col-50 elementor-inner-column","data-id":"e1f23c8","data-element_type":"column","html":[
+                                                      {"<>":"div","class":"elementor-column-wrap  elementor-element-populated","html":[
+                                                          {"<>":"div","class":"elementor-widget-wrap","html":[
+                                                              {"<>":"div","class":"elementor-element elementor-element-4e8202f elementor-nav-menu__align-right elementor-nav-menu--indicator-classic elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu","data-id":"4e8202f","data-element_type":"widget","data-settings":"{"layout":"horizontal","toggle":"burger"}","data-widget_type":"nav-menu.default","html":[
+                                                                  {"<>":"div","class":"elementor-widget-container","html":[
+                                                                      {"<>":"nav","class":"elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade","html":[
+                                                                          {"<>":"ul","id":"menu-1-4e8202f","class":"elementor-nav-menu","html":[
+                                                                              {"<>":"li","class":"menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-5454 current_page_item menu-item-5475","html":[
+                                                                                  {"<>":"a","href":"http://grantbaldwin.com/","aria-current":"page","class":"elementor-item elementor-item-active","html":"Home"}
+                                                                                ]},
+                                                                              {"<>":"li","class":"menu-item menu-item-type-post_type menu-item-object-page menu-item-5300","html":[
+                                                                                  {"<>":"a","href":"http://grantbaldwin.com/start-here/","class":"elementor-item","html":"Start Here"}
+                                                                                ]},
+                                                                              {"<>":"li","class":"menu-item menu-item-type-post_type menu-item-object-page menu-item-5479","html":[
+                                                                                  {"<>":"a","href":"http://grantbaldwin.com/article/","class":"elementor-item","html":"Articles"}
+                                                                                ]},
+                                                                              {"<>":"li","class":"menu-item menu-item-type-post_type menu-item-object-page menu-item-5460","html":[
+                                                                                  {"<>":"a","href":"http://grantbaldwin.com/about-us/","class":"elementor-item","html":"About"}
+                                                                                ]},
+                                                                              {"<>":"li","class":"menu-item menu-item-type-post_type menu-item-object-page menu-item-5468","html":[
+                                                                                  {"<>":"a","href":"http://grantbaldwin.com/speaking/","class":"elementor-item","html":"Speaking"}
+                                                                                ]},
+                                                                              {"<>":"li","class":"menu-item menu-item-type-post_type menu-item-object-page menu-item-5296","html":[
+                                                                                  {"<>":"a","href":"http://grantbaldwin.com/contact/","class":"elementor-item","html":"Contact"}
+                                                                                ]}
+                                                                            ]}
+                                                                        ]},
+                                                                      {"<>":"div","class":"elementor-menu-toggle","html":[
+                                                                          {"<>":"i","class":"eicon","aria-hidden":"true","html":""},
+                                                                          {"<>":"span","class":"elementor-screen-only","html":"Menu"}
+                                                                        ]},
+                                                                      {"<>":"nav","class":"elementor-nav-menu--dropdown elementor-nav-menu__container","html":[
+                                                                          {"<>":"ul","id":"menu-2-4e8202f","class":"elementor-nav-menu","html":[
+                                                                              {"<>":"li","class":"menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-5454 current_page_item menu-item-5475","html":[
+                                                                                  {"<>":"a","href":"http://grantbaldwin.com/","aria-current":"page","class":"elementor-item elementor-item-active","html":"Home"}
+                                                                                ]},
+                                                                              {"<>":"li","class":"menu-item menu-item-type-post_type menu-item-object-page menu-item-5300","html":[
+                                                                                  {"<>":"a","href":"http://grantbaldwin.com/start-here/","class":"elementor-item","html":"Start Here"}
+                                                                                ]},
+                                                                              {"<>":"li","class":"menu-item menu-item-type-post_type menu-item-object-page menu-item-5479","html":[
+                                                                                  {"<>":"a","href":"http://grantbaldwin.com/article/","class":"elementor-item","html":"Articles"}
+                                                                                ]},
+                                                                              {"<>":"li","class":"menu-item menu-item-type-post_type menu-item-object-page menu-item-5460","html":[
+                                                                                  {"<>":"a","href":"http://grantbaldwin.com/about-us/","class":"elementor-item","html":"About"}
+                                                                                ]},
+                                                                              {"<>":"li","class":"menu-item menu-item-type-post_type menu-item-object-page menu-item-5468","html":[
+                                                                                  {"<>":"a","href":"http://grantbaldwin.com/speaking/","class":"elementor-item","html":"Speaking"}
+                                                                                ]},
+                                                                              {"<>":"li","class":"menu-item menu-item-type-post_type menu-item-object-page menu-item-5296","html":[
+                                                                                  {"<>":"a","href":"http://grantbaldwin.com/contact/","class":"elementor-item","html":"Contact"}
+                                                                                ]}
+                                                                            ]}
+                                                                        ]}
+                                                                    ]}
+                                                                ]}
+                                                            ]}
+                                                        ]}
+                                                    ]}
+                                                ]}
+                                            ]}
+                                        ]},
+                                      {"<>":"div","class":"elementor-element elementor-element-9552ae5 elementor-widget elementor-widget-spacer","data-id":"9552ae5","data-element_type":"widget","data-widget_type":"spacer.default","html":[
+                                          {"<>":"div","class":"elementor-widget-container","html":[
+                                              {"<>":"div","class":"elementor-spacer","html":[
+                                                  {"<>":"div","class":"elementor-spacer-inner","html":""}
+                                                ]}
+                                            ]}
+                                        ]},
+                                      {"<>":"div","class":"elementor-element elementor-element-3a36218 elementor-widget elementor-widget-heading","data-id":"3a36218","data-element_type":"widget","data-widget_type":"heading.default","html":[
+                                          {"<>":"div","class":"elementor-widget-container","html":[
+                                              {"<>":"h1","class":"elementor-heading-title elementor-size-default","html":[
+                                                  {"<>":"i","html":"Want to learn how to "},
+                                                  {"<>":"br","html":""}
+                                                ]}
+                                            ]}
+                                        ]},
+                                      {"<>":"div","class":"elementor-element elementor-element-2970625 elementor-widget elementor-widget-spacer","data-id":"2970625","data-element_type":"widget","data-widget_type":"spacer.default","html":[
+                                          {"<>":"div","class":"elementor-widget-container","html":[
+                                              {"<>":"div","class":"elementor-spacer","html":[
+                                                  {"<>":"div","class":"elementor-spacer-inner","html":""}
+                                                ]}
+                                            ]}
+                                        ]},
+                                      {"<>":"div","class":"elementor-element elementor-element-9ffb501 elementor-align-center elementor-widget elementor-widget-button","data-id":"9ffb501","data-element_type":"widget","data-widget_type":"button.default","html":[
+                                          {"<>":"div","class":"elementor-widget-container","html":[
+                                              {"<>":"div","class":"elementor-button-wrapper","html":[
+                                                  {"<>":"a","href":"http://freespeakerworkshop.com/","class":"elementor-button-link elementor-button elementor-size-xl","role":"button","html":[
+                                                      {"<>":"span","class":"elementor-button-content-wrapper","html":[
+                                                          {"<>":"span","class":"elementor-button-icon elementor-align-icon-right","html":[
+                                                              {"<>":"i","class":"fa fa-arrow-right","aria-hidden":"true","html":""}
+                                                            ]},
+                                                          {"<>":"span","class":"elementor-button-text","html":"Join Our Online Training!"}
+                                                        ]}
+                                                    ]}
+                                                ]}
+                                            ]}
+                                        ]},
+                                      {"<>":"div","class":"elementor-element elementor-element-fd285a0 elementor-widget elementor-widget-spacer","data-id":"fd285a0","data-element_type":"widget","data-widget_type":"spacer.default","html":[
+                                          {"<>":"div","class":"elementor-widget-container","html":[
+                                              {"<>":"div","class":"elementor-spacer","html":[
+                                                  {"<>":"div","class":"elementor-spacer-inner","html":""}
+                                                ]}
+                                            ]}
+                                        ]},
+                                      {"<>":"section","class":"elementor-element elementor-element-2c4ee51 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section","data-id":"2c4ee51","data-element_type":"section","html":[
+                                          {"<>":"div","class":"elementor-container elementor-column-gap-default","html":[
+                                              {"<>":"div","class":"elementor-row","html":[
+                                                  {"<>":"div","class":"elementor-element elementor-element-bc50ea5 elementor-column elementor-col-100 elementor-inner-column","data-id":"bc50ea5","data-element_type":"column","html":[
+                                                      {"<>":"div","class":"elementor-column-wrap  elementor-element-populated","html":[
+                                                          {"<>":"div","class":"elementor-widget-wrap","html":[
+                                                              {"<>":"div","class":"elementor-element elementor-element-379ca7e elementor-widget elementor-widget-text-editor","data-id":"379ca7e","data-element_type":"widget","data-widget_type":"text-editor.default","html":[
+                                                                  {"<>":"div","class":"elementor-widget-container","html":[
+                                                                      {"<>":"div","class":"elementor-text-editor elementor-clearfix","html":[
+                                                                          {"<>":"p","html":[
+                                                                              {"<>":"strong","html":[
+                                                                                  {"<>":"i","html":"Looking for more info on how to become a speaker?"}
+                                                                                ]}
+                                                                            ]},
+                                                                          {"<>":"p","class":"ls-l","data-ls":"offsetxin:right;durationin:1500;delayin:200;easingin:easeOutQuint;fadein:false;offsetxout:left;durationout:1400;fadeout:false;","html":"Check out The Speaker Lab."}
+                                                                        ]}
+                                                                    ]}
+                                                                ]},
+                                                              {"<>":"div","class":"elementor-element elementor-element-1ed6000 elementor-widget elementor-widget-image","data-id":"1ed6000","data-element_type":"widget","data-widget_type":"image.default","html":[
+                                                                  {"<>":"div","class":"elementor-widget-container","html":[
+                                                                      {"<>":"div","class":"elementor-image","html":[
+                                                                          {"<>":"a","data-elementor-open-lightbox":"","href":"https://thespeakerlab.com/","html":[
+                                                                              {"<>":"img","width":"284","height":"77","src":"http://grantbaldwin.com/wp-content/uploads/2019/04/TSL.png","class":"attachment-large size-large","alt":"","html":""}
+                                                                            ]}
+                                                                        ]}
+                                                                    ]}
+                                                                ]},
+                                                              {"<>":"div","class":"elementor-element elementor-element-e793b06 elementor-widget elementor-widget-spacer","data-id":"e793b06","data-element_type":"widget","data-widget_type":"spacer.default","html":[
+                                                                  {"<>":"div","class":"elementor-widget-container","html":[
+                                                                      {"<>":"div","class":"elementor-spacer","html":[
+                                                                          {"<>":"div","class":"elementor-spacer-inner","html":""}
+                                                                        ]}
+                                                                    ]}
+                                                                ]}
+                                                            ]}
+                                                        ]}
+                                                    ]}
+                                                ]}
+                                            ]}
+                                        ]}
+                                    ]}
+                                ]}
+                            ]}
+                        ]}
+                    ]}
+                ]},
+              {"<>":"section","class":"elementor-element elementor-element-80a4ae5 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section","data-id":"80a4ae5","data-element_type":"section","html":[
+                  {"<>":"div","class":"elementor-container elementor-column-gap-default","html":[
+                      {"<>":"div","class":"elementor-row","html":[
+                          {"<>":"div","class":"elementor-element elementor-element-791b5df elementor-column elementor-col-100 elementor-top-column","data-id":"791b5df","data-element_type":"column","html":[
+                              {"<>":"div","class":"elementor-column-wrap  elementor-element-populated","html":[
+                                  {"<>":"div","class":"elementor-widget-wrap","html":[
+                                      {"<>":"section","class":"elementor-element elementor-element-07115ca elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section","data-id":"07115ca","data-element_type":"section","html":[
+                                          {"<>":"div","class":"elementor-container elementor-column-gap-default","html":[
+                                              {"<>":"div","class":"elementor-row","html":[
+                                                  {"<>":"div","class":"elementor-element elementor-element-4712b94 elementor-column elementor-col-50 elementor-inner-column","data-id":"4712b94","data-element_type":"column","html":[
+                                                      {"<>":"div","class":"elementor-column-wrap  elementor-element-populated","html":[
+                                                          {"<>":"div","class":"elementor-widget-wrap","html":[
+                                                              {"<>":"div","class":"elementor-element elementor-element-d51d865 elementor-widget elementor-widget-image","data-id":"d51d865","data-element_type":"widget","data-widget_type":"image.default","html":[
+                                                                  {"<>":"div","class":"elementor-widget-container","html":[
+                                                                      {"<>":"div","class":"elementor-image","html":[
+                                                                          {"<>":"img","width":"393","height":"500","src":"http://grantbaldwin.com/wp-content/uploads/2016/01/homemen_img.png","class":"attachment-large size-large","alt":"","srcset":"http://grantbaldwin.com/wp-content/uploads/2016/01/homemen_img.png 393w, http://grantbaldwin.com/wp-content/uploads/2016/01/homemen_img-236x300.png 236w","sizes":"(max-width: 393px) 100vw, 393px","html":""}
+                                                                        ]}
+                                                                    ]}
+                                                                ]}
+                                                            ]}
+                                                        ]}
+                                                    ]},
+                                                  {"<>":"div","class":"elementor-element elementor-element-bdd6a7f elementor-column elementor-col-50 elementor-inner-column","data-id":"bdd6a7f","data-element_type":"column","html":[
+                                                      {"<>":"div","class":"elementor-column-wrap  elementor-element-populated","html":[
+                                                          {"<>":"div","class":"elementor-widget-wrap","html":[
+                                                              {"<>":"div","class":"elementor-element elementor-element-2c5415c elementor-widget elementor-widget-text-editor","data-id":"2c5415c","data-element_type":"widget","data-widget_type":"text-editor.default","html":[
+                                                                  {"<>":"div","class":"elementor-widget-container","html":[
+                                                                      {"<>":"div","class":"elementor-text-editor elementor-clearfix","html":[
+                                                                          {"<>":"p","html":"Hey, I’m Grant."},
+                                                                          {"<>":"p","html":[
+                                                                              {"<>":"strong","html":"Want to hire me to speak at your next event?"}
+                                                                            ]}
+                                                                        ]}
+                                                                    ]}
+                                                                ]},
+                                                              {"<>":"div","class":"elementor-element elementor-element-18c92c6 elementor-align-left elementor-widget elementor-widget-button","data-id":"18c92c6","data-element_type":"widget","data-widget_type":"button.default","html":[
+                                                                  {"<>":"div","class":"elementor-widget-container","html":[
+                                                                      {"<>":"div","class":"elementor-button-wrapper","html":[
+                                                                          {"<>":"a","href":"http://grantbaldwin.com/speaking/","class":"elementor-button-link elementor-button elementor-size-xl","role":"button","html":[
+                                                                              {"<>":"span","class":"elementor-button-content-wrapper","html":[
+                                                                                  {"<>":"span","class":"elementor-button-icon elementor-align-icon-right","html":[
+                                                                                      {"<>":"i","class":"fa fa-arrow-right","aria-hidden":"true","html":""}
+                                                                                    ]},
+                                                                                  {"<>":"span","class":"elementor-button-text","html":"Learn More"}
+                                                                                ]}
+                                                                            ]}
+                                                                        ]}
+                                                                    ]}
+                                                                ]}
+                                                            ]}
+                                                        ]}
+                                                    ]}
+                                                ]}
+                                            ]}
+                                        ]},
+                                      {"<>":"div","class":"elementor-element elementor-element-982ac52 elementor-widget elementor-widget-spacer","data-id":"982ac52","data-element_type":"widget","data-widget_type":"spacer.default","html":[
+                                          {"<>":"div","class":"elementor-widget-container","html":[
+                                              {"<>":"div","class":"elementor-spacer","html":[
+                                                  {"<>":"div","class":"elementor-spacer-inner","html":""}
+                                                ]}
+                                            ]}
+                                        ]}
+                                    ]}
+                                ]}
+                            ]}
+                        ]}
+                    ]}
+                ]},
+              {"<>":"section","class":"elementor-element elementor-element-78b5432e elementor-section-content-middle elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section","data-id":"78b5432e","data-element_type":"section","data-settings":"{"background_background":"classic"}","html":[
+                  {"<>":"div","class":"elementor-container elementor-column-gap-no","html":[
+                      {"<>":"div","class":"elementor-row","html":[
+                          {"<>":"div","class":"elementor-element elementor-element-47826485 elementor-column elementor-col-100 elementor-top-column","data-id":"47826485","data-element_type":"column","html":[
+                              {"<>":"div","class":"elementor-column-wrap  elementor-element-populated","html":[
+                                  {"<>":"div","class":"elementor-widget-wrap","html":[
+                                      {"<>":"div","class":"elementor-element elementor-element-123c0d39 elementor-shape-rounded elementor-widget elementor-widget-social-icons","data-id":"123c0d39","data-element_type":"widget","data-widget_type":"social-icons.default","html":[
+                                          {"<>":"div","class":"elementor-widget-container","html":[
+                                              {"<>":"div","class":"elementor-social-icons-wrapper","html":[
+                                                  {"<>":"a","href":"https://www.facebook.com/grantbaldwinfans/","class":"elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-993ef04","target":"_blank","html":[
+                                                      {"<>":"span","class":"elementor-screen-only","html":"Facebook"},
+                                                      {"<>":"i","class":"fa fa-facebook","html":""}
+                                                    ]},
+                                                  {"<>":"a","href":"http://twitter.com/grantbaldwin","class":"elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-a229ff5","target":"_blank","html":[
+                                                      {"<>":"span","class":"elementor-screen-only","html":"Twitter"},
+                                                      {"<>":"i","class":"fa fa-twitter","html":""}
+                                                    ]},
+                                                  {"<>":"a","href":"https://www.instagram.com/gbaldwin/","class":"elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-b93c146","target":"_blank","html":[
+                                                      {"<>":"span","class":"elementor-screen-only","html":"Instagram"},
+                                                      {"<>":"i","class":"fa fa-instagram","html":""}
+                                                    ]},
+                                                  {"<>":"a","href":"https://www.youtube.com/user/grantbaldwindotcom","class":"elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-6fce45a","target":"_blank","html":[
+                                                      {"<>":"span","class":"elementor-screen-only","html":"Youtube"},
+                                                      {"<>":"i","class":"fa fa-youtube","html":""}
+                                                    ]}
+                                                ]}
+                                            ]}
+                                        ]},
+                                      {"<>":"div","class":"elementor-element elementor-element-6b7b4e63 elementor-widget elementor-widget-spacer","data-id":"6b7b4e63","data-element_type":"widget","data-widget_type":"spacer.default","html":[
+                                          {"<>":"div","class":"elementor-widget-container","html":[
+                                              {"<>":"div","class":"elementor-spacer","html":[
+                                                  {"<>":"div","class":"elementor-spacer-inner","html":""}
+                                                ]}
+                                            ]}
+                                        ]},
+                                      {"<>":"section","class":"elementor-element elementor-element-4cb34777 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section","data-id":"4cb34777","data-element_type":"section","html":[
+                                          {"<>":"div","class":"elementor-container elementor-column-gap-default","html":[
+                                              {"<>":"div","class":"elementor-row","html":[
+                                                  {"<>":"div","class":"elementor-element elementor-element-28550931 elementor-column elementor-col-50 elementor-inner-column","data-id":"28550931","data-element_type":"column","html":[
+                                                      {"<>":"div","class":"elementor-column-wrap  elementor-element-populated","html":[
+                                                          {"<>":"div","class":"elementor-widget-wrap","html":[
+                                                              {"<>":"div","class":"elementor-element elementor-element-254682d6 elementor-widget elementor-widget-heading","data-id":"254682d6","data-element_type":"widget","data-widget_type":"heading.default","html":[
+                                                                  {"<>":"div","class":"elementor-widget-container","html":[
+                                                                      {"<>":"p","class":"elementor-heading-title elementor-size-default","html":[
+                                                                          {"<>":"a","href":"mailto:info@grantbaldwin.com","html":"info@grantbaldwin.com"}
+                                                                        ]}
+                                                                    ]}
+                                                                ]}
+                                                            ]}
+                                                        ]}
+                                                    ]},
+                                                  {"<>":"div","class":"elementor-element elementor-element-30fabe57 elementor-column elementor-col-50 elementor-inner-column","data-id":"30fabe57","data-element_type":"column","html":[
+                                                      {"<>":"div","class":"elementor-column-wrap  elementor-element-populated","html":[
+                                                          {"<>":"div","class":"elementor-widget-wrap","html":[
+                                                              {"<>":"div","class":"elementor-element elementor-element-5cf017a6 elementor-widget elementor-widget-heading","data-id":"5cf017a6","data-element_type":"widget","data-widget_type":"heading.default","html":[
+                                                                  {"<>":"div","class":"elementor-widget-container","html":[
+                                                                      {"<>":"p","class":"elementor-heading-title elementor-size-default","html":"© 2016 Grant Baldwin"}
+                                                                    ]}
+                                                                ]}
+                                                            ]}
+                                                        ]}
+                                                    ]}
+                                                ]}
+                                            ]}
+                                        ]},
+                                      {"<>":"div","class":"elementor-element elementor-element-343bc376 elementor-widget elementor-widget-spacer","data-id":"343bc376","data-element_type":"widget","data-widget_type":"spacer.default","html":[
+                                          {"<>":"div","class":"elementor-widget-container","html":[
+                                              {"<>":"div","class":"elementor-spacer","html":[
+                                                  {"<>":"div","class":"elementor-spacer-inner","html":""}
+                                                ]}
+                                            ]}
+                                        ]},
+                                      {"<>":"div","class":"elementor-element elementor-element-3ae3f319 elementor-widget elementor-widget-image","data-id":"3ae3f319","data-element_type":"widget","data-widget_type":"image.default","html":[
+                                          {"<>":"div","class":"elementor-widget-container","html":[
+                                              {"<>":"div","class":"elementor-image","html":[
+                                                  {"<>":"img","width":"282","height":"59","src":"http://grantbaldwin.com/wp-content/uploads/2019/04/Footer-Logo.png","class":"attachment-large size-large","alt":"","html":""}
+                                                ]}
+                                            ]}
+                                        ]}
+                                    ]}
+                                ]}
+                            ]}
+                        ]}
+                    ]}
+                ]}
+            ]}
+        ]}
+    ]},
+  {"<>":"script","async":"","html":"(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];j.async=1;j.src=o;j.dataset.sumoSiteId='b9b8abf34c013c06eabf7af671ea7ed847d6da2c1165da25d73ef9c5e8707563';j.dataset.sumoPlatform='wordpress';v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');"},
+  {"<>":"script","type":"application/javascript","html":"\n      var ajaxurl = "http://grantbaldwin.com/wp-admin/admin-ajax.php";\n\n      function sumo_add_woocommerce_coupon(code) {\n        jQuery.post(ajaxurl, {\n          action: 'sumo_add_woocommerce_coupon',\n          code: code,\n        });\n      }\n\n      function sumo_remove_woocommerce_coupon(code) {\n        jQuery.post(ajaxurl, {\n          action: 'sumo_remove_woocommerce_coupon',\n          code: code,\n        });\n      }\n\n      function sumo_get_woocommerce_cart_subtotal(callback) {\n        jQuery.ajax({\n          method: 'POST',\n          url: ajaxurl,\n          dataType: 'html',\n          data: {\n            action: 'sumo_get_woocommerce_cart_subtotal',\n          },\n          success: function(subtotal) {\n            return callback(null, subtotal);\n          },\n          error: function(err) {\n            return callback(err, 0);\n          }\n        });\n      }\n    "},
+  {"<>":"script","type":"text/javascript","src":"http://grantbaldwin.com/wp-content/plugins/dealertrend-inventory-api/application/assets/jquery-cookie/1.0/js/jquery.cookie.js?ver=1.0","html":""},
+  {"<>":"script","type":"text/javascript","src":"http://grantbaldwin.com/wp-content/plugins/dealertrend-inventory-api/application/assets/inventory/js/traffic-sources.js?ver=3.26.3","html":""},
+  {"<>":"script","type":"text/javascript","html":"\n/* <![CDATA[ */\nvar wpcf7 = {"apiSettings":{"root":"http:\/\/grantbaldwin.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};\n/* ]]> */\n"},
+  {"<>":"script","type":"text/javascript","src":"http://grantbaldwin.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.6","html":""},
+  {"<>":"script","type":"text/javascript","src":"http://grantbaldwin.com/wp-content/themes/twentynineteen/js/priority-menu.js?ver=1.1","html":""},
+  {"<>":"script","type":"text/javascript","src":"http://grantbaldwin.com/wp-content/themes/twentynineteen/js/touch-keyboard-navigation.js?ver=1.1","html":""},
+  {"<>":"script","type":"text/javascript","src":"http://grantbaldwin.com/wp-includes/js/wp-embed.min.js?ver=5.3.2","html":""},
+  {"<>":"script","type":"text/javascript","src":"http://grantbaldwin.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1","html":""},
+  {"<>":"script","type":"text/javascript","src":"http://grantbaldwin.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.8.3","html":""},
+  {"<>":"script","type":"text/javascript","src":"http://grantbaldwin.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=2.5.9","html":""},
+  {"<>":"script","type":"text/javascript","html":"\nvar ElementorProFrontendConfig = {"ajaxurl":"http:\/\/grantbaldwin.com\/wp-admin\/admin-ajax.php","nonce":"f1960eff36","shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""}};\n"},
+  {"<>":"script","type":"text/javascript","src":"http://grantbaldwin.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.5.9","html":""},
+  {"<>":"script","type":"text/javascript","src":"http://grantbaldwin.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4","html":""},
+  {"<>":"script","type":"text/javascript","src":"http://grantbaldwin.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.7.3","html":""},
+  {"<>":"script","type":"text/javascript","src":"http://grantbaldwin.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2","html":""},
+  {"<>":"script","type":"text/javascript","src":"http://grantbaldwin.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=4.4.6","html":""},
+  {"<>":"script","type":"text/javascript","html":"\nvar elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.8.3","urls":{"assets":"http:\/\/grantbaldwin.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes"},"editorPreferences":[]},"post":{"id":5454,"title":"Home","excerpt":""}};\n"},
+  {"<>":"script","type":"text/javascript","src":"http://grantbaldwin.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.8.3","html":""},
+  {"<>":"script","html":"\n	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);\n	"}
+]

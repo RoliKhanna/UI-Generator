@@ -1,6 +1,11 @@
 var express = require('express');
 var router = express.Router();
 var fs = require('fs');
+var Promise = require('promise');
+var jsdom = require("jsdom");
+var JSDOM = jsdom.JSDOM;
+
+global.document = new JSDOM("./public/index.html").window.document;
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
@@ -8,27 +13,44 @@ router.get('/', function(req, res, next) {
 });
 
 // render route for getting data from converter/json files, and render
-router.get('/render', function(req, res){
+function render(){
 
   // Reading from JSON file
   // Maybe there should be a different route for this
-  var content = fs.readFileSync("./converter/template_1.json");
+  var template = fs.readFileSync("./converter/template.json");
+  var data = fs.readFileSync("./converter/dummy_data.json");
   console.log("Here's the content from the JSON file: ", JSON.parse(content));
   // Render the newly retrieved html
   // let html = json2html.transform([{'s':'json2html'},{'s':'is'},{'s':'awesome'}],{'<>':'li','html':'${s}'});
-  let html = json2html.transform([{'s':'json2html'},{'s':'is'},{'s':'awesome'}], content);
-  res.render(html); // I think?
+  let html = json2html.transform(data, content);
 
-});
+  return html;
+}
 
 // send some data to generate json files for rendering
-router.post('/generate', function(req, res, next){
+function generate(){
 
-  var params = {id = req.id, type = req.type} ;
+  console.log("We're now dealing with generating a new UI.");
   // call python function to generate UI
-  // async call
-  res.send("Success!");
+  // async call to generate UI
 
-});
+  return 0;
+
+}
+
+// const button = global.document.getElementById("MyButton");
+// const iframe = global.document.getElementById("MyIframe");
+//
+// console.log("button: ", button)
+//
+// button.onclick = async function(e) {
+//   console.log('button was clicked');
+//
+//   const valueA = await generate();
+//   const newHTML = await render();
+//
+//   iframe.src = newHTML;
+//
+// }
 
 module.exports = router;
